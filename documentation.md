@@ -117,7 +117,7 @@ Downloaded Python and set up the Anthropic API. Built `creator_scout.py` — the
 
 **The Slow Creator Lens**
 
-The night before this assignment, I came across the Snailmeal post referencing Slow's public thinking. I used that as the foundation to build `slow-creator-lens.md` — a structured synthesis of Slow's investment thesis grounded in Megan Lightcap's quotes, press releases from the JKM, Tayla Cannon, and Steven Bartlett investments, and Creator CEO Summit recaps. This file is the knowledge base that powers every Claude analysis in the tool. Every scoring decision Claude makes is traceable back to something Slow has said publicly.
+The night before this assignment, I came across the Snailmail post referencing Slow's public thinking — specifically that you can train your agent on "The Slow Lens." I used that as the foundation to build `slow-creator-lens.md` — a structured synthesis of Slow's investment thesis grounded in Megan Lightcap's quotes, press releases from the JKM, Tayla Cannon, and Steven Bartlett investments, and Creator CEO Summit recaps. This file is the knowledge base that powers every Claude analysis in the tool. Every scoring decision Claude makes is traceable back to something Slow has said publicly.
 
 ---
 
