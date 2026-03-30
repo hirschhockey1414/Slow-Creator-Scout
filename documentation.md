@@ -7,9 +7,9 @@
 
 The prompt gave three options. I picked Case 2 because it's the one that actually resonates with how I think about finding creators.
 
-Scanning Reddit usernames or pulling a surface-level list of event attendees gives you breadth, not depth. A podcast appearance is something different. These creators were selected to be on that show for a reason. If Slow trusts the podcast host, we should trust why they're featuring that guest. A 60-minute conversation is an unfiltered founder interview. It's the deepest due diligence signal that exists at the discovery stage.
+Scanning Reddit usernames or pulling a surface-level list of event attendees gives you breadth, not depth. A podcast appearance is something different. These creators were selected to be on that show for a reason. If Slow trusts the podcast host, it's worth trusting why they're featuring that guest. A 60-minute conversation is an unfiltered founder interview. It's the deepest due diligence signal that exists at the discovery stage.
 
-When I think about the creators I've come across that fit Slow's thesis, they almost always showed up on a podcast first. Knees Over Toes Guy on Joe Rogan told you everything about Ben Patrick's founder mindset before you even looked at his business. The Bentist on Operators with Mike Beckham — he was talking about unit economics and scaling, not content. That's the whole point. You're not just hearing what someone built. You're hearing how they think about it.
+There is something uniquely powerful about listening to a founder in conversation. Knees Over Toes Guy on Joe Rogan told you everything about Ben Patrick's founder mindset before you even looked at his business. The Bentist on Operators with Mike Beckham — he was talking about unit economics and scaling, not content. A long-form podcast conversation reveals how someone thinks, how they talk about their community, and whether they see themselves as a founder. That signal doesn't exist anywhere else at the discovery stage.
 
 That depth of signal doesn't exist in a Reddit username or an event badge. This is the type of storytelling that has the most depth of the three cases, and it maps directly to how Slow actually evaluates people.
 
@@ -35,7 +35,7 @@ These are the signals Claude looks for in every episode description. Each one ma
 Not "doing it better" — attacking something broken in a genuinely novel way. The Bentist didn't make better toothpaste. He declared that 150 years of oral care is built on lies. Knees Over Toes didn't offer better physical therapy. He said conventional knee surgery advice is wrong. That's the level of disruption the tool is looking for.
 
 **2. Hyper-Niche**
-A specific vertical with a defined, passionate community. High spend propensity. Not broad lifestyle content. The 250K+ social following threshold exists because below that, the creator hasn't yet proven they can hold a niche audience at scale.
+A specific vertical with a defined, passionate community. High spend propensity. Not broad lifestyle content.
 
 **3. Momentum**
 First appearance on a major show in the last year. This is a creator at an inflection point — someone who might actually be looking for capital right now, not someone who peaked three years ago.
@@ -44,7 +44,7 @@ First appearance on a major show in the last year. This is a creator at an infle
 Does this creator think and talk like a founder? Delusional intensity and optimism. They talk about their work like it's a calling, not a job. Systems thinking, market framing, willingness to turn down deals that don't fit the long-term vision.
 
 **5. Flywheel**
-Has this creator proven conversion beyond content? Do they sell hardware, software, physical products? Do they have an IRL vertical? An unmonetized audience is a hypothesis. A monetized audience is a business. This is the Slow filter that separates a great storyteller from an actual investment.
+Has this creator proven conversion beyond content? Do they sell physical products, software, or have an IRL vertical? An unmonetized audience is a hypothesis. A monetized audience is a business. This is the Slow filter that separates a great storyteller from an actual investment.
 
 Each signal is scored 0–2 per episode. Total out of 10. HIGH priority = 6+.
 
