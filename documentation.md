@@ -32,7 +32,7 @@ The podcast list was the most important design decision in this whole exercise.
 These are the signals Claude looks for in every episode description. Each one maps directly to something Slow has said publicly about what they look for.
 
 **1. Industry Disruption**
-Not "doing it better" — attacking something broken in a genuinely novel way. The Bentist didn't make better toothpaste. He declared that 150 years of oral care is built on lies. Knees Over Toes didn't offer better physical therapy. He said conventional knee surgery advice is wrong. That's the level of disruption the tool is looking for.
+Not "doing it better" — attacking something broken in a genuinely novel way. The Bentist didn't make better toothpaste. He declared that 150 years of oral care is built on a lack of innovation. Knees Over Toes didn't offer better physical therapy. He said conventional knee rehabilitation advice is wrong. That's the level of disruption the tool is looking for.
 
 **2. Hyper-Niche**
 A specific vertical with a defined, passionate community. High spend propensity. Not broad lifestyle content.
