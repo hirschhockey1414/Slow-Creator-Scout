@@ -315,7 +315,73 @@ def check_multi_show_appearances(all_guests):
     return {name: shows for name, shows in name_to_shows.items() if len(shows) > 1}
 
 
-def format_report(flagged, multi_show_guests):
+TOP_PICKS_PROMPT = """You are a partner at Slow Ventures Creator Fund, a $60M fund that invests $1-3M into creator-entrepreneurs building real businesses on top of their audiences.
+
+You have just completed a scan of founder-depth podcasts and identified the following HIGH priority creators. Your job is to select the 3-5 who are the best fit for Slow to actually pursue — not just the highest scorers, but the ones who genuinely match Slow's thesis of backing creator-entrepreneurs with niche audiences, proven conversion, and $100-200M franchise potential.
+
+SLOW'S INVESTMENT CRITERIA:
+- Creator-first: builds audience before business, not a traditional founder who happens to podcast
+- Niche community with deep attachment (skill, identity, or transformation — not entertainment)
+- Proven flywheel: has sold something to their audience (physical products, software, IRL vertical)
+- Founder mindset: thinks like an operator, not just a content creator
+- Franchise ceiling: realistic path to $100-200M revenue
+
+HIGH PRIORITY CREATORS FROM THIS SCAN:
+{creator_summaries}
+
+Select the 3-5 creators Slow should pursue first. For each, give:
+1. Why they are the best fit for Slow specifically
+2. What the investment thesis would be
+3. What to verify before reaching out
+
+Be direct and opinionated. Slow's capital is for 1% of creators.
+
+YOU MUST respond with ONLY valid JSON in this exact format:
+{{
+  "top_picks": [
+    {{
+      "name": "Creator Name",
+      "rank": 1,
+      "why_slow": "2-3 sentences on why this is a Slow investment specifically.",
+      "thesis": "1-2 sentence investment thesis.",
+      "verify_first": "What to check before reaching out."
+    }}
+  ],
+  "passed_on": "1-2 sentences on why the remaining HIGH priority creators were not selected."
+}}"""
+
+
+def select_top_picks(client, high_priority_flagged):
+    """Send all HIGH priority creators to Claude for final comparative ranking."""
+    if not high_priority_flagged:
+        return None
+
+    summaries = []
+    for f in high_priority_flagged:
+        cs = f.get('creator_score', {})
+        s = cs.get('creator_score', {}) if cs else {}
+        total = s.get('total', '?')
+        thesis = cs.get('investment_thesis', '') if cs else ''
+        summaries.append(
+            f"- {f.get('guest_name', 'Unknown')} | {f.get('podcast')} | "
+            f"Signal: {f.get('total_score', 0)}/10 | Creator Score: {total}/60 | "
+            f"Niche: {f.get('niche', 'Unknown')} | "
+            f"Thesis: {thesis[:200]}"
+        )
+
+    prompt = TOP_PICKS_PROMPT.format(creator_summaries="\n".join(summaries))
+
+    message = client.messages.create(
+        model="claude-opus-4-6",
+        max_tokens=2048,
+        messages=[{"role": "user", "content": prompt}]
+    )
+
+    response_text = message.content[0].text.strip()
+    return extract_json(response_text)
+
+
+def format_report(flagged, multi_show_guests, top_picks=None):
     """Format the final weekly report."""
     now = datetime.now()
     report = []
@@ -331,6 +397,18 @@ def format_report(flagged, multi_show_guests):
     report.append(f"SUMMARY: {len(high_priority)} HIGH PRIORITY | {len(medium_priority)} MEDIUM PRIORITY")
     report.append(f"Multi-show appearances: {len(multi_show_guests)} creators flagged")
     report.append("")
+
+    if top_picks and top_picks.get('top_picks'):
+        report.append("⭐ TOP PICKS — SLOW SHOULD PURSUE THESE FIRST")
+        report.append("-" * 50)
+        for pick in top_picks['top_picks']:
+            report.append(f"\n  #{pick.get('rank', '?')} {pick.get('name', 'Unknown')}")
+            report.append(f"  Why Slow: {pick.get('why_slow', '')}")
+            report.append(f"  Thesis: {pick.get('thesis', '')}")
+            report.append(f"  Verify first: {pick.get('verify_first', '')}")
+        if top_picks.get('passed_on'):
+            report.append(f"\n  Passed on: {top_picks['passed_on']}")
+        report.append("")
 
     if multi_show_guests:
         report.append("⚡ MULTI-SHOW MOMENTUM (appeared on 2+ podcasts this year)")
@@ -480,6 +558,10 @@ def main():
 
     multi_show = check_multi_show_appearances(all_guests_for_multishow)
 
+    high_priority_flagged = [f for f in all_flagged if f.get('priority') == 'HIGH']
+    print(f"\nRunning Top Picks selection across {len(high_priority_flagged)} HIGH priority creators...")
+    top_picks = select_top_picks(client, high_priority_flagged)
+
     print(f"\n{'='*60}")
     print(f"SCAN COMPLETE")
     print(f"Episodes analyzed: {episodes_analyzed}")
@@ -487,7 +569,7 @@ def main():
     print(f"Multi-show creators: {len(multi_show)}")
     print(f"{'='*60}\n")
 
-    report = format_report(all_flagged, multi_show)
+    report = format_report(all_flagged, multi_show, top_picks)
     print(report)
 
     report_filename = f"/Users/michaelhirsch/Desktop/slow_creator_report_{datetime.now().strftime('%Y%m%d_%H%M')}.txt"
