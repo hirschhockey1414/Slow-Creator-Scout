@@ -1,0 +1,970 @@
+======================================================================
+SLOW CREATOR SCOUT — WEEKLY REPORT
+Generated: March 30, 2026 at 01:39 PM
+======================================================================
+
+SUMMARY: 63 HIGH PRIORITY | 21 MEDIUM PRIORITY
+Multi-show appearances: 1 creators flagged
+
+⚡ MULTI-SHOW MOMENTUM (appeared on 2+ podcasts this year)
+--------------------------------------------------
+  • Bill Gurley — My First Million, Modern Wisdom
+
+🔴 HIGH PRIORITY CREATORS
+--------------------------------------------------
+
+  GUEST: Adam Levy
+  Podcast: The Colin and Samir Show | March 18, 2026
+  Episode: He Built an AI Podcast and It Became the #1 Show.
+  Niche: AI-automated podcast/media production infrastructure
+  Signal Score: 9/10
+  Signals: Disruption(2) | Niche(1) | Momentum(2) | Founder(2) | Flywheel(2)
+  Why: Adam Levy built a fully AI-generated podcast network (Distill) that hit #1 in the UK with near-zero production costs ($1/episode, profitable at 20 listeners), fundamentally challenging the traditional podcast production model. He's operating at the intersection of AI infrastructure and media, thinking in terms of autonomous networks rather than single shows — classic holding-company founder mentality. The economics he's describing (daily content at negligible cost) represent a genuine structural disruption to incumbent media companies and creator studios alike.
+  Creator Score: 46/60
+  → Disruption:9 Community:5 Conversion:7 Operator:9 Expansion:8 Ceiling:8
+  Thesis: Adam Levy has identified and executed on a genuinely disruptive insight: AI-generated daily podcasts that are profitable at 20 listeners, with near-zero marginal cost per episode. His Distill platform is not a single show but an autonomous podcast network infrastructure play — this is a founder building a media factory, not a creator building an audience. The risk is community depth (audiences may not attach to AI-hosted shows the way they do to human creators), but the economics and scalability make this a compelling asymmetric bet on the future of programmatic media.
+  Comparable: Most resembles a cross between Colin & Samir (media-native thinking about creator infrastructure) and The Hustle/Morning Brew model — except Adam is attacking audio with AI-native production. Within Slow's portfolio, he's closest to infrastructure-layer creator-economy bets rather than personality-driven creator investments.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Jordan Matter
+  Podcast: The Colin and Samir Show | February 04, 2026
+  Episode: Inside Jordan Matter’s Netflix Deal, and what it signals for YouTubers
+  Niche: Family entertainment / YouTube family franchise (originally photography, now centered on Salish Matter as a youth talent brand)
+  Signal Score: 6/10
+  Signals: Disruption(1) | Niche(1) | Momentum(2) | Founder(1) | Flywheel(1)
+  Why: Jordan Matter just signed a major Netflix talent deal centered around his daughter Salish, signaling a massive inflection point from YouTube creator to cross-platform franchise. He built one of the most durable family entertainment channels on YouTube with strong retention and weekly consistency, and Netflix is betting on the talent (Salish) rather than a specific show concept — suggesting significant IP/brand value. However, the business appears content/media-centric with no clear evidence of product diversification, hardware, software, or e-commerce beyond the content itself.
+  Creator Score: 40/60
+  → Disruption:6 Community:8 Conversion:5 Operator:7 Expansion:7 Ceiling:7
+  Thesis: Jordan Matter has built one of the most durable family entertainment franchises on YouTube, and the Netflix deal validates Salish as a bankable IP asset beyond the platform. The channel demonstrates strong retention mechanics and weekly consistency, but the core business still leans heavily on ad revenue and platform deals rather than diversified direct-to-consumer monetization. Slow should monitor for signs of product launches or owned IP expansion—the Netflix signal is strong, but the conversion proof and commercial diversification need to catch up to the audience scale.
+  Comparable: Most resembles the Dude Perfect archetype in the Slow portfolio—a family-friendly entertainment brand with massive reach, platform-native IP, and a clear path to licensing and media deals, though with similar questions around direct monetization depth beyond sponsorships and platform revenue.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Jordi Hayes and John Coogan
+  Podcast: The Colin and Samir Show | January 28, 2026
+  Episode: How TBPN Built the Luxury Brand of the Creator Economy
+  Niche: Premium daily live tech and business media targeting industry decision-makers and executives
+  Signal Score: 10/10
+  Signals: Disruption(2) | Niche(2) | Momentum(2) | Founder(2) | Flywheel(2)
+  Why: TBPN has built a premium daily live tech/business show that's sold out every ad slot for the year ahead, hosted 1,000+ guests including Zuckerberg/Altman/Nadella, and explicitly runs an 'anti-scale' philosophy targeting high-value decision-makers — this is a holding company play on a niche, influential audience. Their advertising model (ultra-short host reads, season-long deals) is a genuinely novel disruption of how creator media monetizes, making legacy tech media look broken. The combination of proven revenue (sold-out inventory), elite guest roster signaling massive industry trust, and intentional niche positioning makes this one of the clearest creator-to-media-company trajectories in the space.
+  Creator Score: 50/60
+  → Disruption:9 Community:8 Conversion:9 Operator:9 Expansion:7 Ceiling:8
+  Thesis: TBPN has cracked the code on building a premium, niche media property that commands outsized ad revenue by targeting tech and business decision-makers — sold-out ad inventory for a full year is extraordinary conversion proof. Their anti-scale philosophy mirrors the playbook of luxury brands: constrained supply, high-value audience, and pricing power. With 1,000+ high-profile guests in just over a year, operator-level thinking on monetization (season-long deals, ultra-short host reads), and a format that blends legacy TV credibility with creator energy, this is a strong investment candidate with a clear path to a $100M+ media franchise.
+  Comparable: Most closely resembles Morning Brew's trajectory — a niche-first, business-audience media brand that built premium advertiser relationships before expanding into adjacent verticals — but with the added moat of live daily programming and host-driven trust that makes it stickier and harder to replicate.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: James Pumphrey and Jesse Wood
+  Podcast: The Colin and Samir Show | January 21, 2026
+  Episode: The Art of Reinvention on YouTube - ft Speeed
+  Niche: YouTube automotive/car culture media and YouTube media business infrastructure
+  Signal Score: 9/10
+  Signals: Disruption(2) | Niche(2) | Momentum(2) | Founder(2) | Flywheel(1)
+  Why: Pumphrey and Wood built Donut Media into one of YouTube's most iconic automotive brands, then walked away to start Speeed — suggesting they have a repeatable playbook for building YouTube media businesses, not just a single channel. They've developed a proprietary '9 principles' framework for evaluating whether a YouTube media business works, signaling deep systems thinking and founder-level strategic rigor. They're at a clear inflection point: new company, first major podcast appearances, and they're explicitly framing YouTube channels as businesses/holding companies rather than content plays.
+  Creator Score: 46/60
+  → Disruption:8 Community:7 Conversion:6 Operator:9 Expansion:8 Ceiling:8
+  Thesis: Pumphrey and Wood are rare operator-creators who already built and scaled one of YouTube's most successful media brands (Donut Media) and are now applying hard-won lessons to Speeed with a systematic, framework-driven approach (nine principles for evaluating YouTube media businesses). Their deep understanding of formats, writing, and entertainment-first content strategy—combined with proven ability to build institutional-grade YouTube channels rather than personality-dependent ones—makes them a compelling bet. The main risk is Speeed is still early and must prove it can replicate Donut's audience scale, but the founders' track record and operator sophistication de-risk significantly.
+  Comparable: Most resembles Colin and Samir themselves (meta-YouTube media operators) but with stronger operator credentials given their exit from Donut Media—also comparable to Dude Perfect in building format-driven, talent-agnostic media brands that can scale beyond individual personalities.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Joy Sullivan
+  Podcast: Creator Science | March 17, 2026
+  Episode: #297: Joy Sullivan — How She Built A Living As A Writer On Instagram and Substack
+  Niche: Poetry and creative writing — specifically Instagram-native literary content and paid writing community
+  Signal Score: 6/10
+  Signals: Disruption(1) | Niche(2) | Momentum(1) | Founder(1) | Flywheel(1)
+  Why: Joy Sullivan is a rare example of someone building a real creative business around poetry — a category almost nobody monetizes — with a 250-member paid community, 23K Substack subscribers, and a Penguin Random House book deal. She deliberately walked away from $60K/year in Substack revenue to protect her creative work, which signals strong founder conviction but also a craft-first orientation that may limit scale. Her flywheel exists (paid community, book, Substack) but the revenue ceiling and deliberate slow-growth philosophy likely cap her well below the $100-200M threshold Slow targets.
+  Creator Score: 36/60
+  → Disruption:7 Community:8 Conversion:7 Operator:6 Expansion:5 Ceiling:3
+  Thesis: Joy Sullivan has done something genuinely rare—built a sustainable creative business around poetry using Instagram carousels and Substack, with real revenue proof (250 paid community members, $60K+ Substack revenue she deliberately walked away from, Penguin Random House book deal). However, her deliberate slow-growth philosophy and the inherent ceiling of poetry/literary writing as a category limit franchise scale. She's an exceptional craftsperson-operator hybrid but the realistic exit value caps well below Slow's typical return threshold.
+  Comparable: Ali Abdaal in the 'creator teaching creators' adjacent space, but with a fundamentally different ceiling—more analogous to a niche literary brand like Austin Kleon, where the audience is deeply loyal but the TAM for poetry-centered businesses remains structurally small.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Richard
+  Podcast: Creator Science | March 10, 2026
+  Episode: #296: Meet The Man Who Solved YouTube (With Data)—Richard from 1of10
+  Niche: YouTube strategy / creator analytics SaaS
+  Signal Score: 8/10
+  Signals: Disruption(1) | Niche(2) | Momentum(1) | Founder(2) | Flywheel(2)
+  Why: Richard is co-founder of 1of10, a data-backed YouTube strategy platform that has helped creators accumulate 2B+ views — this is a proven SaaS/research product with real revenue (discount codes, strategy calls). He's deeply embedded in the YouTube optimization niche with a database of 300K+ outliers, demonstrating systems thinking and founder-level obsession with a repeatable methodology. The platform sits at the intersection of creator tools and data intelligence, with clear B2B monetization and potential to scale as the creator economy grows.
+  Creator Score: 43/60
+  → Disruption:7 Community:6 Conversion:8 Operator:9 Expansion:7 Ceiling:6
+  Thesis: Richard has built a genuinely differentiated data-driven YouTube strategy platform (1of10) with real revenue signals—paid SaaS product, strategy consulting, and a dataset of 300K+ outliers that creates a defensible moat. The combination of practitioner credibility (2B+ views for clients), a productized research methodology, and a clear B2B expansion path into creator economy tooling makes this a strong operator bet. The main risk is category ceiling: YouTube strategy tools are a competitive, niche-adjacent market and the brand is more infrastructure than consumer franchise.
+  Comparable: Most resembles vidIQ or paddy galloway-style creator strategist operators in the Slow lens—someone building picks-and-shovels tooling for the creator economy rather than being a pure audience-first creator. Closest Slow comp would be a creator-turned-SaaS founder like those behind research/analytics tools serving other creators.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Becky Pierson Davidson
+  Podcast: Creator Science | March 03, 2026
+  Episode: #295: Community Building Trends for 2026 with Becky Pierson Davidson
+  Niche: Community design and membership business strategy for creator-entrepreneurs and online education companies
+  Signal Score: 6/10
+  Signals: Disruption(1) | Niche(2) | Momentum(1) | Founder(1) | Flywheel(1)
+  Why: Becky is deeply embedded in the community/membership design niche, consulting with 6-8 figure businesses on transitioning from courses to memberships using design thinking and customer research. She has a clear thesis that the course model is dying and shared learning experiences are the future, positioning her as a strategic advisor at the center of a major shift in the creator economy. She runs Affinity Collective and has her own podcast (Build with Becky), but it's unclear how scalable her own business is beyond consulting — the flywheel from audience to product needs further validation.
+  Creator Score: 33/60
+  → Disruption:5 Community:6 Conversion:6 Operator:7 Expansion:5 Ceiling:4
+  Thesis: Becky Pierson Davidson is a skilled community design consultant working with 6-8 figure businesses, but she appears here as a guest on someone else's podcast (Creator Science), not as the primary creator/host. Her expertise in membership and community architecture is real and operationally sharp, but her personal brand distribution and audience ownership are unclear — she's more of a B2B consultant/agency operator (Affinity Collective) than a creator building a scalable media or product empire. The franchise ceiling is limited to a consulting/services business unless she builds proprietary community infrastructure or a significant owned audience.
+  Comparable: Resembles a more niche version of Pat Flynn — deep community expertise and practitioner credibility, but without the same scale of owned audience or diversified product portfolio to justify venture-scale returns.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Rob Walling
+  Podcast: Creator Science | February 24, 2026
+  Episode: #294: Rob Walling — SaaS godfather turned creator talks team building and vibe coding
+  Niche: Bootstrapped SaaS / indie software entrepreneurship
+  Signal Score: 8/10
+  Signals: Disruption(1) | Niche(2) | Momentum(1) | Founder(2) | Flywheel(2)
+  Why: Rob Walling is deeply embedded in the bootstrapped SaaS niche with a proven multi-brand flywheel: MicroConf (events), TinySeed ($60M fund, 210+ investments), a 15-year podcast (820+ episodes), books, and YouTube — all supported by a team of 11 with $100-120K monthly payroll. He's a rare operator-turned-creator with 8-figure exit experience (Drip) who explicitly identifies as more creator than founder now, signaling he's building a media-driven holding company. His audience of SaaS founders and indie hackers has exceptionally high spend propensity and he's already proven deep monetization across events, fund management, and content.
+  Creator Score: 50/60
+  → Disruption:7 Community:9 Conversion:10 Operator:10 Expansion:7 Ceiling:7
+  Thesis: Rob Walling is a rare creator-operator hybrid who has already built and exited an 8-figure SaaS company, runs a venture fund with ~$60M AUM, and operates a multi-brand media empire (MicroConf, TinySeed, podcast, books, YouTube) with an 11-person team and $100-120K/month payroll. His community depth in the bootstrapped SaaS world is unmatched after 15+ years, and his conversion proof is extraordinary — he monetizes through events, a fund, books, and adjacent products. The main risk is that his ecosystem is already mature and complex (he acknowledges wishing four brands were two), which may limit the marginal value of outside capital versus operational simplification.
+  Comparable: Most resembles a Pat Flynn or Sahil Lavingia archetype — a founder-turned-creator who built real businesses, then leveraged credibility and audience into a media-plus-fund model. His TinySeed fund is structurally similar to how Sahil Lavingia parlayed Gumroad into angel investing and creator influence, but Rob's is more institutionalized.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Mike Michalowicz
+  Podcast: Creator Science | February 17, 2026
+  Episode: #236: Mike Michalowicz – How the author of Profit First stays lean by licensing his ideas [Greatest Hits]
+  Niche: Small business financial management and entrepreneurship frameworks
+  Signal Score: 6/10
+  Signals: Disruption(1) | Niche(1) | Momentum(0) | Founder(2) | Flywheel(2)
+  Why: Mike Michalowicz has built a prolific business around authoring frameworks (Profit First, Clockwork) and licensing them to third-party service providers — a genuinely unique IP licensing model that runs lean. With 500K+ book sales across 9 books and hundreds of thousands of companies using his methods, he has proven deep monetization and conversion. However, this is a Greatest Hits rerun from a mature creator, suggesting no fresh inflection point, and his model may be closer to a traditional author/consultant business than a venture-scale creator holding company.
+  Creator Score: 44/60
+  → Disruption:7 Community:7 Conversion:8 Operator:9 Expansion:7 Ceiling:6
+  Thesis: Mike Michalowicz has built a genuinely differentiated model in the business book space by licensing his frameworks (Profit First, Clockwork, etc.) to third-party service providers rather than building out his own consulting or coaching empire — this keeps his team lean while generating recurring revenue from IP. With 500K+ books sold, a deeply loyal SMB audience, and nine published titles, he has strong conversion proof and operator instincts. However, his ceiling is somewhat capped as a personal brand in the SMB advice category, and the licensing model, while clever, may limit equity value creation compared to owning the full stack.
+  Comparable: Most resembles an April Dunford or Ramit Sethi archetype — a frameworks-first author who monetizes expertise through books and adjacent services — though his licensing model makes him uniquely capital-light. Closest Slow parallel would be a creator who has built enduring IP that others build businesses around.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Chenell Basilio
+  Podcast: Creator Science | February 03, 2026
+  Episode: #292: Chenell Basilio — The state of email in 2026, growing your list without social media, and new predictions.
+  Niche: Newsletter growth strategy and creator audience analytics
+  Signal Score: 6/10
+  Signals: Disruption(1) | Niche(2) | Momentum(1) | Founder(1) | Flywheel(1)
+  Why: Chenell is deeply embedded in the newsletter/email growth niche with her 'Growth in Reverse' newsletter, which reverse-engineers how top creators grew their audiences — a hyper-specific vertical with high spend propensity among creator-economy professionals. She demonstrates analytical depth and frameworks (e.g., 'insanely valuable content') that signal founder-level thinking, though her monetization beyond the newsletter itself is unclear from this episode. The conversation hints at a maturing perspective on email as a channel (email inflation, recommendation network dynamics) that could position her as a picks-and-shovels play for the creator economy.
+  Creator Score: 28/60
+  → Disruption:5 Community:6 Conversion:4 Operator:6 Expansion:4 Ceiling:3
+  Thesis: Chenell Basilio has built a respected niche as the go-to analyst for newsletter growth strategies through Growth in Reverse, earning credibility among creators and newsletter operators. However, the 'newsletter about newsletters' category is inherently constrained in TAM, there's limited evidence of meaningful product revenue beyond the newsletter itself, and the category is saturated with competitors. This is a strong personal brand with real expertise but lacks the conversion proof, operator ambition, and ceiling that would justify a Slow investment at this stage.
+  Comparable: Closest to a Newsletter Operator / Chenell is in the meta-creator-education space similar to early-stage Jay Clouse (Creator Science host himself), but with narrower category focus and less evidence of diversified monetization.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Paul Millerd
+  Podcast: Creator Science | January 13, 2026
+  Episode: #289: Paul Millerd — The Truth About Traditional Publishing (And The Deal He Would’ve Taken)
+  Niche: Self-publishing / creator-led book publishing and the 'pathless path' career philosophy space
+  Signal Score: 7/10
+  Signals: Disruption(2) | Niche(1) | Momentum(1) | Founder(2) | Flywheel(1)
+  Why: Paul Millerd is actively disrupting traditional publishing by self-publishing, turning down a Penguin deal, and proving the direct-to-audience model works ($325K in royalties). He demonstrates strong founder obsession — treating his book as a product business with direct sales, premium hardcover editions, and margin optimization. However, his current revenue scale ($325K total royalties) and product portfolio (single book) suggest he's still early and the ceiling may be limited relative to Slow's $100-200M target.
+  Creator Score: 39/60
+  → Disruption:7 Community:7 Conversion:8 Operator:8 Expansion:5 Ceiling:4
+  Thesis: Paul Millerd is a compelling operator who has proven the self-publishing model with $325K+ in royalties, turned down a major Penguin deal, and demonstrates sophisticated thinking about direct-to-consumer book economics including premium hardcover editions and direct sales. However, his brand is tightly coupled to a single book and the 'pathless path' personal narrative, which limits category expansion and franchise ceiling — this is likely a low-seven-figure lifestyle business rather than a venture-scale opportunity.
+  Comparable: Most resembles a bootstrapped version of creators like Noah Kagan in the Slow orbit — author-first brand with business savvy — but with a narrower niche focus on alternative career paths and self-publishing that constrains the total addressable market significantly.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Ankur Nagpal
+  Podcast: Creator Science | December 19, 2025
+  Episode: #286: How To LEGALLY Pay Less In Taxes (And Invest It Instead) — Ankur Nagpal
+  Niche: Tax optimization and retirement investing for self-employed creators and solopreneurs (fintech/Solo 401k)
+  Signal Score: 9/10
+  Signals: Disruption(2) | Niche(2) | Momentum(1) | Founder(2) | Flywheel(2)
+  Why: Ankur Nagpal previously built and sold Teachable for ~$250M and is now building Carry, a fintech company around Solo 401(k)s and tax optimization for self-employed creators/entrepreneurs — a deeply underserved niche. He's framing the tax/retirement industry as fundamentally broken and biased against solopreneurs, building content-driven distribution (free tax guides, podcast appearances) layered on top of a real software/financial product. He exhibits strong founder obsession — his personal experience with a massive tax event drove him to master the tax code and productize that knowledge into a company.
+  Creator Score: 48/60
+  → Disruption:7 Community:6 Conversion:9 Operator:10 Expansion:8 Ceiling:8
+  Thesis: Ankur Nagpal is a proven operator who built and sold Teachable for ~$250M and is now building Carry, a fintech platform solving a real pain point (tax-advantaged investing via Solo 401(k)s) for the exact creator/solopreneur demographic that is rapidly growing. His appearance on Creator Science is a distribution play — he's using the creator media ecosystem as a customer acquisition channel for a software product with strong retention and expansion revenue potential. This is less a 'creator fund' bet and more a founder-operator bet with creator-native distribution, which makes it highly compelling for Slow.
+  Comparable: Most resembles a hybrid of Sahil Bloom (founder-creator building financial products) and the Hubspot/creator-led SaaS playbook — a repeat founder leveraging content and community as a moat for a fintech product with meaningful TAM.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Rob Mayhew
+  Podcast: Creator Economy Live | December 18, 2025
+  Episode: Why Brands Listen to Rob Mayhew
+  Niche: Advertising/marketing agency culture — B2B creator satirizing and commenting on agency and brand dynamics
+  Signal Score: 6/10
+  Signals: Disruption(1) | Niche(2) | Momentum(1) | Founder(1) | Flywheel(1)
+  Why: Rob Mayhew has carved out a deeply specific niche as the satirical voice of advertising agency life, turning insider industry humor into real brand value with B2B companies. His positioning as the 'unofficial spokesperson for agency life' suggests strong trust and authority within a professional vertical with high spend propensity. The leap to full-time creator and B2B brand partnerships signal early monetization, but unclear if he's building a holding-company-style business beyond content and brand deals.
+  Creator Score: 33/60
+  → Disruption:7 Community:6 Conversion:5 Operator:5 Expansion:6 Ceiling:4
+  Thesis: Rob Mayhew has carved out a distinctive niche as the satirist of agency and marketing culture, earning genuine trust from B2B decision-makers who see him as an authentic voice in an industry full of jargon. However, his niche is narrow (advertising/agency professionals), conversion proof beyond brand deals is unclear, and the franchise ceiling for a B2B comedy-commentary creator is limited without a clear product or platform play. Slow should monitor for signs of productization (courses, SaaS tools, events, consulting practice) before pursuing.
+  Comparable: Most resembles a B2B version of Morning Brew's early content-to-community play, but without the scalable media product — closer to niche LinkedIn creators Slow has generally passed on due to ceiling constraints.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Jack Westercamp
+  Podcast: Creator Economy Live | December 04, 2025
+  Episode: Inside the Ad World’s Favorite Creator Duo with Jack Westercamp
+  Niche: Advertising and marketing industry media/commentary
+  Signal Score: 6/10
+  Signals: Disruption(1) | Niche(2) | Momentum(1) | Founder(1) | Flywheel(1)
+  Why: Jack Westercamp is one half of Breaking & Entering, a media brand specifically targeting the advertising industry — a deep hyper-niche with high-spend B2B audience. The description notes the ad industry 'can't stop obsessing over' them, suggesting strong community traction and momentum. However, based on available information it's unclear whether they've built a significant product flywheel or holding-company-style business beyond media/content.
+  Creator Score: 30/60
+  → Disruption:6 Community:6 Conversion:4 Operator:5 Expansion:5 Ceiling:4
+  Thesis: Jack Westercamp has built real credibility as one half of Breaking & Entering, a media brand that resonates within the advertising and creator economy niche. However, the audience is narrow (ad industry insiders), there's limited evidence of direct monetization beyond media/content, and the franchise ceiling for an industry-insider commentary brand is constrained. This is a watch-list creator—worth revisiting if they launch a product, event series, or SaaS tool that leverages their insider access, but not yet investable at Slow's scale.
+  Comparable: Most resembles early-stage trade media creators like The Publish Press or similar newsletter/podcast operators covering the creator economy—niche authority with strong insider credibility but unclear path to venture-scale outcomes.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Sean Atkins
+  Podcast: Creator Economy Live | November 20, 2025
+  Episode: Inside the Dhar Mann Empire with CEO Sean Atkins
+  Niche: Inspirational/motivational short-form scripted content and creator-driven media production
+  Signal Score: 9/10
+  Signals: Disruption(2) | Niche(1) | Momentum(2) | Founder(2) | Flywheel(2)
+  Why: Sean Atkins is CEO of Dhar Mann Studios, which operates a 125,000 sq. ft. production facility in LA — a clear signal of a massive creator-driven media business with real infrastructure and flywheel beyond content. His resume spanning MTV, HBO, Discovery, Disney, and Jellysmack shows deep conviction that creator-driven companies are the future over traditional media, and his move to DMS signals founder-level obsession with disrupting the legacy entertainment model. The scale of the DMS operation and its positioning as a creator studio/holding company aligns closely with Slow's thesis of distribution-first businesses with $100M+ revenue potential.
+  Creator Score: 41/60
+  → Disruption:7 Community:5 Conversion:6 Operator:9 Expansion:7 Ceiling:7
+  Thesis: Sean Atkins is a rare operator-creator hybrid with deep traditional media credentials (MTV, HBO, Discovery, Disney) who has fully committed to the creator economy infrastructure layer. His role as CEO of Dhar Mann Studios — a 125,000 sq. ft. production powerhouse — combined with hosting Creator Economy Live (including a live conference business) signals someone building durable B2B and B2C assets around the creator ecosystem. The risk is that his personal brand is more executive/industry-insider than audience-first creator, meaning community depth and conversion proof lag behind his operational sophistication.
+  Comparable: Most resembles Colin and Samir in the Slow portfolio — a creator-about-creators model with conference/event expansion and deep industry access, though Atkins skews more executive-operator than native creator.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Dr. Rhonda Patrick
+  Podcast: Diary of a CEO | March 30, 2026
+  Episode: Anti-Aging Expert: Stop Touching Receipts Immediately! The Fast Way To Shrink Visceral Fat
+  Niche: Longevity science, nutrition, and aging — translating peer-reviewed biomedical research into consumer health protocols
+  Signal Score: 7/10
+  Signals: Disruption(1) | Niche(2) | Momentum(2) | Founder(1) | Flywheel(1)
+  Why: Dr. Rhonda Patrick is a deeply credentialed biomedical scientist who has built FoundMyFitness into a major health/longevity media brand with a YouTube channel, podcast, and supplement recommendations — she is the quintessential 'trust shifted to individuals' creator in the longevity science niche. Appearing on Diary of a CEO (one of the world's largest podcasts) in 2026 signals continued momentum and mainstream crossover. Her niche — translating complex nutritional/aging science into actionable protocols — has extremely high audience spend propensity (supplements, lab testing, courses), though her product flywheel beyond content/membership appears somewhat underdeveloped relative to the opportunity.
+  Creator Score: 43/60
+  → Disruption:6 Community:8 Conversion:7 Operator:7 Expansion:8 Ceiling:7
+  Thesis: Dr. Rhonda Patrick has built one of the most trusted science-translation brands in health and longevity through FoundMyFitness, with a deeply loyal audience that values her PhD credibility and rigorous approach. She has proven conversion through a premium membership model, supplement recommendations, and consistent cross-platform audience growth, but hasn't yet launched a proprietary product line at scale — representing significant upside. The risk is that she operates more as an educator than an operator, and the health/longevity creator space is increasingly crowded (Huberman, Attia), which could cap her differentiation ceiling.
+  Comparable: Andrew Huberman — both are PhD-level science communicators who built massive audiences translating complex health research into actionable protocols, with monetization through memberships, sponsorships, and supplement adjacency, though Huberman has scaled further into branded products.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Karen Hao
+  Podcast: Diary of a CEO | March 26, 2026
+  Episode: AI Whistleblower: We Are Being Gaslit By The AI Companies! They’re Hiding The Truth About AI
+  Niche: AI criticism, investigative tech journalism, AI policy and ethics
+  Signal Score: 6/10
+  Signals: Disruption(2) | Niche(1) | Momentum(2) | Founder(0) | Flywheel(1)
+  Why: Karen Hao is an award-winning AI investigative journalist with a bestselling book ('Empire of AI'), a podcast (The Interface), and freelance work for major outlets — she's at a clear inflection point appearing on Diary of a CEO. She attacks the AI industry with a whistleblower/critic framing, calling AGI a 'marketing scam' and accusing companies of gaslighting the public, which is genuinely disruptive positioning. However, she is fundamentally a journalist rather than a creator-entrepreneur building a product company on top of her audience, which significantly limits fit with Slow's thesis.
+  Creator Score: 31/60
+  → Disruption:7 Community:4 Conversion:5 Operator:4 Expansion:6 Ceiling:5
+  Thesis: Karen Hao is a credible, award-winning investigative journalist with a bestselling book and strong media presence, but she is primarily a journalist and author rather than a community-building operator. Her disruption angle—holding AI companies accountable—is timely and resonant, but her monetization infrastructure is thin (book sales, freelance bylines, podcast co-hosting) with limited evidence of direct-to-audience conversion or product thinking. She would need to evolve from journalist-commentator to founder-operator to justify an investment at scale.
+  Comparable: Most comparable to a journalist-turned-author like Kara Swisher or Casey Newton in the tech accountability space—credible voice but unclear path to a venture-scale creator business without significant product expansion beyond media.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: David Sinclair
+  Podcast: Diary of a CEO | March 23, 2026
+  Episode: David Sinclair: Can Aging Be Reversed? After 8 Weeks, Cells Appeared 75% Younger In Tests!
+  Niche: Longevity science / anti-aging / healthspan optimization
+  Signal Score: 10/10
+  Signals: Disruption(2) | Niche(2) | Momentum(2) | Founder(2) | Flywheel(2)
+  Why: David Sinclair is reframing aging as a treatable disease, directly challenging the entire medical establishment's approach to aging — a textbook industry disruption play. He has built a massive audience around longevity science and is already monetizing through Lifespan.com, multiple biotech companies, a bestselling book, a podcast, and a supplement stack — a proven flywheel across content, commerce, and biotech. His appearance on Diary of a CEO discussing first clinical trials to reverse human aging and blindness signals a major inflection point in both scientific credibility and mainstream audience growth.
+  Creator Score: 52/60
+  → Disruption:8 Community:9 Conversion:8 Operator:9 Expansion:9 Ceiling:9
+  Thesis: David Sinclair is not merely a content creator but a vertically integrated longevity operator—Harvard professor, bestselling author, founder of multiple biotech companies, co-chief editor of a journal, and builder of Lifespan.com as a consumer-facing brand. His scientific credibility combined with mainstream media reach (appearing on the largest podcasts in the world) creates an exceptionally rare trust moat in the massive and growing longevity/wellness category. Slow should aggressively pursue a relationship given his ability to convert scientific authority into consumer products, supplements, and potentially a longevity platform worth well north of $200M.
+  Comparable: Most closely resembles Andrew Huberman in the Slow lens—an elite academic who has translated deep scientific credibility into a massive audience and consumer brand, with the key differentiator being Sinclair's deeper biotech company portfolio and direct clinical research pipeline giving him even stronger operator signals and IP moats.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Chase Hughes
+  Podcast: Diary of a CEO | March 19, 2026
+  Episode: Manipulation Expert: How To Influence Anyone & Make Them Do Exactly What You Want! - Chase Hughes
+  Niche: Applied behavioral science, persuasion, and psychological operations (ex-military interrogation expertise applied to civilian contexts)
+  Signal Score: 6/10
+  Signals: Disruption(1) | Niche(2) | Momentum(1) | Founder(1) | Flywheel(1)
+  Why: Chase Hughes occupies a deeply specific niche at the intersection of behavioral science, interrogation, and psychological operations — a domain with high audience fascination and spend propensity (books, courses, corporate training). His appearance on Diary of a CEO (one of the world's largest podcasts) signals a potential inflection point in mainstream awareness. He has a bestselling book and frameworks (PCP model, behavioral profiling) that suggest systematized IP that could be productized further, though evidence of a broader business flywheel beyond books/content is unclear and needs verification.
+  Creator Score: 29/60
+  → Disruption:5 Community:4 Conversion:5 Operator:5 Expansion:6 Ceiling:4
+  Thesis: Chase Hughes occupies a niche in behavioral psychology and influence tactics with a military credibility angle, but he's primarily a guest on other people's platforms (Diary of a CEO) rather than owning his own distribution at massive scale. He has a book and training materials suggesting some conversion proof, but the category of 'manipulation/persuasion expert' is crowded, commoditized, and vulnerable to AI-generated alternatives. Without a proprietary community or platform play, his ceiling is limited to mid-tier info-product revenue.
+  Comparable: Most resembles a lower-scale version of Chris Voss (negotiation niche expert with book + speaking), but without the iconic brand moment or mainstream crossover that would justify a venture-scale bet.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Daniel Priestley
+  Podcast: Diary of a CEO | March 16, 2026
+  Episode: Daniel Priestley: Plumbers Will Earn More Than Lawyers! I Predicted 2008, Now I'm Warning About 2029
+  Niche: Business strategy, entrepreneurship education, and AI-era business transformation
+  Signal Score: 7/10
+  Signals: Disruption(1) | Niche(1) | Momentum(1) | Founder(2) | Flywheel(2)
+  Why: Daniel Priestley is a serial entrepreneur with multiple operating businesses (Dent Global, ScoreApp) and bestselling books, demonstrating a proven flywheel of audience-to-product conversion. He exhibits strong founder obsession with systems thinking around AI disruption, personal branding, and entrepreneurial frameworks. However, his niche is broad business strategy/entrepreneurship rather than a hyper-specific vertical, and his disruption framing (AI crash prediction, personal brand as survival strategy) is more thought-leadership than a genuinely novel industry attack.
+  Creator Score: 44/60
+  → Disruption:6 Community:6 Conversion:9 Operator:9 Expansion:7 Ceiling:7
+  Thesis: Daniel Priestley is a proven operator with multiple businesses (Dent Global, ScoreApp) and bestselling books, demonstrating strong conversion proof and founder-level thinking. His positioning at the intersection of personal branding, entrepreneurship education, and AI-era business strategy gives him a timely narrative, though his core thesis (build a personal brand, become a key person of influence) is not particularly novel in the creator economy. Slow should consider him as a lower-risk, high-floor investment — he already runs real revenue-generating businesses and has a loyal entrepreneurial audience, but the ceiling may be capped by the crowded business education space.
+  Comparable: Most resembles a hybrid of Alex Hormozi and Pat Flynn — proven business educator with real operating companies behind the content, monetizing through both SaaS (ScoreApp) and education/consulting (Dent Global), though with a smaller US footprint than Hormozi.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Simon Mills
+  Podcast: Diary of a CEO | March 13, 2026
+  Episode: Most Replayed Moment: The Antibiotic Alternative Big Pharma Doesn't Want You To Know!
+  Niche: Medical herbalism / natural antibiotic alternatives / herbal medicine
+  Signal Score: 7/10
+  Signals: Disruption(2) | Niche(2) | Momentum(1) | Founder(1) | Flywheel(1)
+  Why: Simon Mills is positioned as a challenger to conventional pharmaceutical orthodoxy on antibiotics, framing Big Pharma's approach as broken and promoting herbal alternatives — classic 'industry disruption' language. He operates in a deep hyper-niche (medical herbalism) with a passionate, health-conscious audience willing to spend on alternative remedies. However, his current monetization and founder signals appear limited — he's associated with Herbal Reality, a content/education platform, but there's no clear evidence yet of a scaled product flywheel or holding-company ambition.
+  Creator Score: 26/60
+  → Disruption:6 Community:4 Conversion:3 Operator:4 Expansion:5 Ceiling:4
+  Thesis: Simon Mills is a respected UK herbalist but this signal is misleading — he is a guest on Diary of a CEO, not the creator of it. His own platform (Herbal Reality) is modest in scale, and there is little evidence of direct-to-consumer product revenue, community ownership, or founder-like operator behavior. The herbal medicine space is crowded with better-positioned creator-operators, and Mills lacks the audience scale, conversion infrastructure, and brand moat needed for a venture-scale outcome. Pass.
+  Comparable: Loosely comparable to early-stage wellness practitioners Slow may have evaluated but lacks the audience ownership and product traction of someone like Dr. Mark Hyman or Andrew Huberman who have successfully built ecosystems around health content.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Nischa Shah
+  Podcast: Diary of a CEO | March 06, 2026
+  Episode: Most Replayed Moment: Stressed About Money? Nischa's Step-by-Step Guide To Financial Security
+  Niche: Personal finance education for salaried professionals
+  Signal Score: 6/10
+  Signals: Disruption(1) | Niche(1) | Momentum(2) | Founder(1) | Flywheel(1)
+  Why: Nischa is a former investment banker and chartered accountant who has built a YouTube audience around personal finance, and is now appearing on Diary of a CEO — one of the world's largest podcasts — signaling a major inflection point. Her professional credibility (IB + accounting) combined with a clear, frameworks-driven teaching style suggests founder-like thinking, though the personal finance space is crowded and her level of product monetization beyond content is unclear. Worth a social/product check to see if she's building beyond ad revenue and courses.
+  Creator Score: 29/60
+  → Disruption:5 Community:5 Conversion:3 Operator:5 Expansion:6 Ceiling:5
+  Thesis: Nischa has strong credentials (investment banking, chartered accountant) and a clear personal finance niche on YouTube, but her visibility here is primarily as a guest on Diary of a CEO rather than as a standalone franchise. There's limited evidence of direct monetization beyond content (no courses, products, or community offerings publicly visible), and the personal finance creator space is extremely crowded with low differentiation. Slow should monitor for operator evolution—if she launches proprietary financial products or a paid community—but the current signal is too early-stage and commodity-content to pursue.
+  Comparable: Ali Abdaal — both are UK-based, credentialed professionals turned YouTube personal finance/productivity educators, though Ali is significantly further along in monetization and brand-building. Nischa would need to demonstrate similar operator depth before warranting investment.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Gavin de Becker
+  Podcast: Diary of a CEO | March 01, 2026
+  Episode: Top CIA Security Advisor: Jeffrey Epstein Epstein Was A Made Up Person & They Can See Your Messages!
+  Niche: Personal security, violence prediction, and elite threat assessment
+  Signal Score: 6/10
+  Signals: Disruption(1) | Niche(2) | Momentum(1) | Founder(1) | Flywheel(1)
+  Why: Gavin de Becker is deeply embedded in the elite security and violence prevention niche with a 50+ year track record, a firm (Gavin de Becker & Associates), bestselling books in 30 languages, and high-profile clients including Jeff Bezos and government agencies. He challenges conventional thinking on surveillance, government transparency, and intuition-based threat assessment. However, he is primarily a legacy expert and consultant rather than a creator-entrepreneur building audience-first digital products, which limits his fit for Slow's thesis.
+  Creator Score: 40/60
+  → Disruption:7 Community:6 Conversion:7 Operator:8 Expansion:6 Ceiling:6
+  Thesis: Gavin de Becker is a legitimate domain expert with a decades-old consultancy (Gavin de Becker & Associates), bestselling books (The Gift of Fear), and high-profile clients including Jeff Bezos, which gives him extraordinary credibility and conversion proof. However, he is a guest on someone else's podcast (Diary of a CEO), not a creator building his own audience flywheel—his monetization is through his existing security firm and book sales rather than a creator-native business. Slow should monitor whether he launches a direct-to-audience media or product play, but as-is he's more of a legacy expert than an investable creator economy opportunity.
+  Comparable: Most resembles a James Clear-type figure—domain expert with a massive bestselling book and established authority, but the creator-native infrastructure and community ownership aren't yet built out enough for a venture-scale creator fund bet.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Jocko Willink
+  Podcast: Diary of a CEO | February 27, 2026
+  Episode: Most Replayed Moment: Your Excuses Will Destroy You, To Be Disciplined Is To Be Free!
+  Niche: Military-inspired leadership, discipline, and tactical fitness — targeting high-intent male professionals, veterans, and self-improvement enthusiasts
+  Signal Score: 8/10
+  Signals: Disruption(1) | Niche(2) | Momentum(1) | Founder(2) | Flywheel(2)
+  Why: Jocko Willink has built a multi-vertical empire on top of his audience: Jocko Fuel (supplements/energy drinks), Origin USA (American-made apparel/gear), Echelon Front (leadership consulting firm), and a bestselling book/podcast ecosystem. He operates as a true holding-company founder with deep founder obsession, framing discipline and leadership as a philosophy that underpins every product line. His appearance on Diary of a CEO as a 'most replayed moment' signals continued cultural relevance and audience resonance at massive scale.
+  Creator Score: 51/60
+  → Disruption:6 Community:9 Conversion:9 Operator:10 Expansion:8 Ceiling:9
+  Thesis: Jocko Willink is a rare creator who has already built a vertically integrated empire spanning multiple bestselling books, a top-ranked podcast (Jocko Podcast), a supplement company (Jocko Fuel), a leadership consulting firm (Echelon Front), and an apparel line — all anchored by an intensely loyal audience that treats his philosophy as a lifestyle. The disruption angle scores lower only because motivational/discipline content is a crowded space, but Jocko's authentic military credibility and operator DNA set him apart. Slow should pursue this if there's a capital-deployable growth opportunity in scaling Jocko Fuel or a new venture, though his existing infrastructure may mean he's less in need of early-stage creator fund support.
+  Comparable: Most resembles a more mature, operator-heavy version of David Goggins-style creator-athletes in the portfolio — someone who has converted personal brand authority into real CPG and services revenue at scale, similar to how Chamberlain Coffee scaled from creator credibility but with significantly more business complexity and revenue diversification.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Jessie Inchauspé
+  Podcast: Diary of a CEO | February 26, 2026
+  Episode: Pregnancy Diet Expert: The Pregnancy Diet That Rewrites DNA! Why Pregnant Moms Are Being Lied To!
+  Niche: Glucose optimization / metabolic health, expanding into prenatal nutrition and maternal health
+  Signal Score: 10/10
+  Signals: Disruption(2) | Niche(2) | Momentum(2) | Founder(2) | Flywheel(2)
+  Why: Jessie Inchauspé (Glucose Goddess) has built a massive global brand around glucose optimization — a hyper-niche biochemistry vertical — and is now expanding into the pregnancy/maternal health space with a new book ('9 Months That Count Forever'), signaling a major inflection point. She explicitly frames the incumbent nutrition and prenatal dietary guidance as broken and misleading ('Pregnant Moms Are Being Lied To'), positioning herself as a disruptor against institutional health advice. She has proven flywheel conversion with bestselling books, a named method/brand, and a loyal community, while demonstrating founder-level obsession by building a holding-company-style platform (content → books → method → potential supplements/products) on top of her audience.
+  Creator Score: 48/60
+  → Disruption:7 Community:9 Conversion:8 Operator:8 Expansion:8 Ceiling:8
+  Thesis: Jessie Inchauspé has built a rare combination of scientific credibility and mass-market accessibility around glucose management, a category she essentially created for consumers. With multiple international bestsellers, a devoted 'Glucose Goddess' community of millions, and now expansion into pregnancy/maternal health, she has proven conversion power and a clear path to product lines (supplements, food products, wearables partnerships). The pregnancy book represents a smart category expansion that deepens lifetime audience value — mothers are among the highest-converting consumer segments. Slow should pursue aggressively.
+  Comparable: Most resembles a health-wellness hybrid of Dr. Mark Hyman and Kayla Itsines — scientific authority packaged with actionable consumer frameworks, with bestselling books as the entry point and CPG/supplement lines as the monetization layer. Within Slow's portfolio, closest to creators who've built category-defining wellness brands with strong product-market fit.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Justine Tiu and Adrian Zhang
+  Podcast: Operators | March 26, 2026
+  Episode: How The Woobles Built a Cult Brand: Product, Not Marketing
+  Niche: Crochet/fiber arts kits — beginner-friendly craft education and physical product brand
+  Signal Score: 9/10
+  Signals: Disruption(1) | Niche(2) | Momentum(2) | Founder(2) | Flywheel(2)
+  Why: The Woobles is a deeply niche crochet kit brand built around the concept of 'fiero' — the joy of accomplishing something you thought impossible — with proven commercial traction including Super Bowl airtime, a McDonald's Monopoly partnership, and a Shark Tank appearance where they walked away from every deal (strong founder conviction). They have a real physical product business with e-commerce, retail distribution, and brand partnerships, demonstrating full flywheel conversion from audience to revenue. Their product-over-marketing philosophy and willingness to endure brutal lessons (Joann Fabrics creditor situation, iOS 14 pivot) signal serious founder obsession and resilience.
+  Creator Score: 49/60
+  → Disruption:8 Community:9 Conversion:9 Operator:9 Expansion:7 Ceiling:7
+  Thesis: The Woobles has built a cult consumer brand around the emotional concept of 'fiero' — making the impossible feel achievable — which creates extraordinary customer loyalty and word-of-mouth. They've demonstrated elite operator instincts: walking away from Shark Tank deals, surviving the Joann Fabrics bankruptcy as their largest unsecured creditor, pivoting channel strategy post-iOS 14, and landing Super Bowl and McDonald's partnerships. The husband-wife founding team combines product obsession with business sophistication, though the franchise ceiling is somewhat bounded by the craft/hobby category unless they successfully expand into adjacent creative categories.
+  Comparable: Most resembles a craft-native version of Chamberlain Coffee (Emma Chamberlain) — a creator-founder who turned personal passion and authentic community connection into a real consumer product brand with retail distribution, though The Woobles has even stronger conversion proof and operator depth given their scale of partnerships and survival through major business adversity.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Amit RG
+  Podcast: Operators | March 25, 2026
+  Episode: Why This CEO Is Building His Own SaaS Killer: Amit RG (RichPanel)
+  Niche: Ecommerce infrastructure / AI-native customer service and returns SaaS for DTC brands
+  Signal Score: 8/10
+  Signals: Disruption(2) | Niche(2) | Momentum(1) | Founder(2) | Flywheel(1)
+  Why: Amit is a SaaS founder who publicly acknowledges his own product category (traditional customer service SaaS) is dying due to AI agents — and is actively rebuilding on top of that disruption rather than denying it. He's framing the entire ecommerce support/returns stack as broken and betting on AI-native, token-based pricing models to replace legacy per-seat SaaS. He already has a new returns portal live with 31 brands and is demonstrating classic founder obsession by walking through 'five stages of grief' about his own business and coming out with a contrarian rebuild strategy.
+  Creator Score: 43/60
+  → Disruption:8 Community:5 Conversion:7 Operator:9 Expansion:7 Ceiling:7
+  Thesis: Amit RG is a rare founder-operator who is publicly cannibalizing his own SaaS product to rebuild around AI agents — a move that signals both intellectual honesty and conviction in where ecommerce infrastructure is heading. His positioning at the intersection of AI-native customer service, returns automation, and the broader SaaS-to-agents transition gives him a legitimate wedge into a massive category shift. The risk is that RichPanel is still early in its pivot with only 31 brands on the new returns product, and community depth around Amit personally (versus the Operators podcast hosts) is still developing.
+  Comparable: Most resembles a hybrid of the Operators podcast ecosystem and Nik Sharma's DTC operator-to-product pipeline — a founder using media credibility and operator networks to validate and distribute software products, though Amit's disruption angle is sharper given he's actively rebuilding his own category.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Matt Orlić
+  Podcast: Operators | March 18, 2026
+  Episode: How Matt Orlić Lost It All, Built a Skincare Empire & Found Meaning
+  Niche: DTC skincare ecommerce — clinically inspired skincare products paired with influencer-driven distribution and ecommerce growth coaching
+  Signal Score: 9/10
+  Signals: Disruption(1) | Niche(2) | Momentum(2) | Founder(2) | Flywheel(2)
+  Why: Matt Orlić co-founded Qure Skincare which is scaling toward nine figures by combining clinically inspired skincare products with a sophisticated influencer/creator distribution strategy — a textbook 'distribution precedes product' play. He developed proprietary frameworks (the 'spherical scaling system') for creative and ad spend, coached 150+ ecommerce brands through Ecomm Architects, and bootstrapped globally without institutional capital, signaling extreme founder obsession and resilience. The combination of a proven revenue flywheel (physical products + coaching business + content), deep ecommerce niche expertise, and current momentum (first major podcast appearances, approaching nine-figure revenue) makes him a compelling candidate.
+  Creator Score: 46/60
+  → Disruption:7 Community:6 Conversion:9 Operator:9 Expansion:7 Ceiling:8
+  Thesis: Matt Orlić is a rare operator-creator hybrid who has scaled Qure Skincare toward nine figures while simultaneously building a services/coaching business (Ecomm Architects) across 150+ brands, demonstrating both direct revenue proof and deep ecommerce pattern recognition. His 'spherical scaling system' for creative and paid media shows genuine IP development, and his bootstrapped global trajectory without institutional capital makes him capital-efficient and hungry. Slow should pursue — the combination of a scaling DTC brand, a consulting flywheel feeding deal flow and insights, and a compelling founder narrative makes him a strong fit for the Creator Fund.
+  Comparable: Most closely resembles Ridge/Sean Frank in the Slow ecosystem — a DTC founder who became a media personality through operator credibility, using content and community to compound brand awareness while running a real, scaled commerce business.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Ryan Petersen
+  Podcast: Operators | March 13, 2026
+  Episode: Your $175B Tariff Refund Checklist With Ryan Petersen, Flexport CEO
+  Niche: Global logistics, freight forwarding, and supply chain/tariff policy
+  Signal Score: 9/10
+  Signals: Disruption(1) | Niche(2) | Momentum(2) | Founder(2) | Flywheel(2)
+  Why: Ryan Petersen is the CEO of Flexport, a massive logistics/freight forwarding company — he's not a creator-entrepreneur in the Slow Ventures mold but rather an established tech CEO running a venture-backed unicorn. His appearance here is as a domain expert on tariffs and supply chain, not as a creator monetizing an audience. Despite high scores on niche depth, momentum, and flywheel, he does not fit Slow's thesis of investing in creators building businesses on top of their audiences — Flexport is already a multi-billion dollar venture-backed company.
+  Creator Score: 51/60
+  → Disruption:8 Community:7 Conversion:9 Operator:10 Expansion:8 Ceiling:9
+  Thesis: Ryan Petersen is a rare creator-operator hybrid: he's the CEO of Flexport (a $8B+ logistics company) who brings genuine domain expertise and real-time market intelligence to the Operators podcast. His audience — ecommerce founders and supply chain operators — has extremely high purchasing power and trusts him as a practitioner, not a pundit. The podcast serves as a top-of-funnel for Flexport's core business while also generating direct monetization through premium sponsors, making this a highly leveraged media asset with multiple conversion paths and enormous franchise ceiling tied to global trade complexity.
+  Comparable: Most resembles a hybrid of the Morning Brew / The Hustle model but with deep vertical expertise — similar to how Slow has backed creators who are also operating real businesses at scale, like a founder-influencer who uses media as a strategic moat for their primary enterprise.
+  ⚠ Social check needed (250K+ threshold): False
+
+  GUEST: Hudson Leogrande
+  Podcast: Operators | March 12, 2026
+  Episode: How Hudson Leogrande Is Building Comfrt Into a $1B Brand
+  Niche: Direct-to-consumer comfort/lifestyle products (ecommerce brand built on creator-driven distribution)
+  Signal Score: 8/10
+  Signals: Disruption(1) | Niche(1) | Momentum(2) | Founder(2) | Flywheel(2)
+  Why: Hudson Leogrande bootstrapped Comfrt from $1,000 to what is described as approaching $1B in annual revenue, making it one of the fastest-growing ecommerce brands ever. He runs a 500-person creator army on commission as 'mini-CMOs,' which is a textbook distribution-first flywheel. His founder intensity is extreme — went broke seven times, started homeless at 16, and talks about building a billion-dollar brand with delusional conviction.
+  Creator Score: 51/60
+  → Disruption:8 Community:8 Conversion:10 Operator:9 Expansion:7 Ceiling:9
+  Thesis: Hudson Leogrande is a rare bootstrapped operator who has built Comfrt to massive scale without outside capital, leveraging a 500-person creator affiliate army as a distribution moat that functions like a decentralized marketing org. The combination of proven revenue traction (approaching $1B trajectory), resilience through multiple near-death experiences, and sophisticated operational thinking (dynamic pricing, pre-order strategies, commission-based creator network) makes this a compelling investment. The risk is category concentration in comfort/lifestyle products, but Hudson's operator DNA and distribution infrastructure suggest he can expand into adjacent categories.
+  Comparable: Most resembles Ridge (Sean Frank) in the Slow ecosystem — a bootstrapped DTC brand that scaled through performance marketing innovation and operational discipline rather than venture capital, with a founder who thinks like a systems builder rather than just a brand storyteller.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Krishna Poda
+  Podcast: Operators | March 11, 2026
+  Episode: From Spreadsheets to AI Agents: The Ecommerce Data Playbook
+  Niche: Ecommerce data analytics and AI-powered business intelligence
+  Signal Score: 6/10
+  Signals: Disruption(1) | Niche(2) | Momentum(1) | Founder(1) | Flywheel(1)
+  Why: Krishna Poda is CEO of Saras Analytics, building vertically specialized AI/data infrastructure for ecommerce brands — a deeply technical niche with high spend propensity. The product (Saras IQ) is built as a specialized layer on top of Claude for governed, consistent analytics, positioning at the intersection of AI agents and ecommerce operations. However, Krishna appears more as a B2B SaaS founder than a creator-entrepreneur with a personal audience, which is a significant mismatch with Slow's thesis of distribution-first creators.
+  Creator Score: 39/60
+  → Disruption:6 Community:5 Conversion:7 Operator:8 Expansion:7 Ceiling:6
+  Thesis: Krishna Poda is a genuine operator building Saras Analytics as an AI-powered data layer for ecommerce brands, with real revenue from a SaaS product (Saras IQ) and strong credibility alongside proven DTC founders like Sean Frank and Jason Panzer. However, the Operators podcast is a multi-host ensemble show where Krishna is a guest rather than the singular creator-brand, limiting his individual community ownership and making it harder to attribute audience loyalty directly to him. The bet here is on the intersection of his SaaS business and content presence, but the content moat alone is thin for a creator fund investment.
+  Comparable: Most resembles a B2B SaaS founder who uses podcasting as a distribution channel rather than a creator-first personality — similar in spirit to operators in the Slow portfolio who leverage content for business growth but where the primary value is the software company, not the media brand.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Cassandra Thurswell
+  Podcast: Operators | March 03, 2026
+  Episode: 8 Failed Businesses Before Kitsch’s Beauty Empire
+  Niche: Beauty accessories and hair care — direct-to-consumer and mass retail
+  Signal Score: 9/10
+  Signals: Disruption(1) | Niche(2) | Momentum(2) | Founder(2) | Flywheel(2)
+  Why: Cassandra and Jeremy Thurswell bootstrapped Kitsch from $30k in savings to a beauty and accessories empire with 30,000+ retail doors and 10M+ ecommerce orders — a proven, massive flywheel. They exhibit extreme founder obsession (8 failed businesses before Kitsch, pivoted to 70M face masks, protected the vision through scarcity rather than seeking funding). This is their first-ever joint podcast appearance, signaling an inflection point, though the business may already be beyond typical creator-fund stage given its scale.
+  Creator Score: 51/60
+  → Disruption:7 Community:7 Conversion:10 Operator:10 Expansion:8 Ceiling:9
+  Thesis: Cassandra Thurswell is not a creator-turned-operator — she is a proven operator with an at-scale consumer brand (30,000+ retail doors, 10M+ ecommerce orders) who is now building media presence. Kitsch is already a franchise-scale beauty and accessories empire built bootstrapped from $30k, demonstrating extreme capital efficiency and operator discipline. Slow should pursue this if the angle is backing her expanding personal brand and media platform into a broader creator-commerce flywheel, though the core business may already be beyond typical creator fund check sizes.
+  Comparable: Most resembles Mike Beckham (Simple Modern) in the Operators ecosystem — a bootstrapped founder who built a massive consumer products business through retail distribution and operational excellence, now leveraging media and community to amplify their brand and influence.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Kat Cole
+  Podcast: Operators | February 26, 2026
+  Episode: Kat Cole: From Hostess to AG1’s CEO With +$500M in Revenue
+  Niche: Consumer health / nutritional supplements (daily greens/whole-body nutrition)
+  Signal Score: 8/10
+  Signals: Disruption(1) | Niche(1) | Momentum(2) | Founder(2) | Flywheel(2)
+  Why: Kat Cole is the CEO of AG1, a $500M+ revenue consumer health company experiencing massive momentum with new product launches, a Costco debut, celebrity partnerships (Hugh Jackman), and a strategic rebrand — all compressed into a six-month blitz after two years of operational and clinical groundwork. She demonstrates intense founder obsession with frameworks like the 'Hotshot Rule,' systems thinking around product quality as a growth strategy, and a proven flywheel converting brand trust into physical product sales at scale. However, she is a professional CEO of an established company rather than a creator-entrepreneur building on top of a personal audience, which is a significant mismatch with Slow's thesis.
+  Creator Score: 53/60
+  → Disruption:7 Community:8 Conversion:10 Operator:10 Expansion:8 Ceiling:10
+  Thesis: Kat Cole is not a traditional creator-turned-operator — she's a proven operator with a growing creator surface area. As CEO of AG1 (500M+ revenue), she has world-class conversion proof and operational depth that virtually no creator can match. The investment question is whether her personal brand and media presence (podcast appearances, thought leadership) can be channeled into a creator-native venture beyond AG1, but her track record, audience trust among operators and consumers, and category expansion potential make her an exceptional candidate for any creator-aligned fund.
+  Comparable: Most closely resembles a Nick Huber or Shaan Puri archetype — operators who build audience through credibility and real business results rather than entertainment — but at a significantly larger scale given AG1's revenue base and Kat's C-suite pedigree across multiple iconic brands.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Taylor Holiday
+  Podcast: Operators | February 25, 2026
+  Episode: Practical Tips on AI, Brand & Growth With Taylor Holiday
+  Niche: DTC e-commerce growth strategy, performance marketing, and brand scaling
+  Signal Score: 8/10
+  Signals: Disruption(1) | Niche(2) | Momentum(1) | Founder(2) | Flywheel(2)
+  Why: Taylor Holiday is CEO of Common Thread Collective, deeply embedded in the DTC/e-commerce growth strategy niche with strong founder-operator credibility. He demonstrates systems thinking with frameworks like 'Four Peaks' for engineering conversion spikes, calls out TikTok Shop as an 'affiliate Ponzi scheme,' and presents contrarian views on AI creative outperforming humans. He has built a services business (CTC) that functions as a platform with deep audience trust among e-commerce operators, with potential to layer software/data products on top.
+  Creator Score: 46/60
+  → Disruption:7 Community:7 Conversion:9 Operator:9 Expansion:7 Ceiling:7
+  Thesis: Taylor Holiday is a rare operator-creator hybrid: he runs Common Thread Collective (a major DTC growth agency), has deep credibility in the e-commerce ecosystem, and is now building media properties like the Operators podcast alongside proven founders like Sean Frank. His frameworks (Four Peaks, AI creative testing) get adopted by hundreds of brands, giving him unusual distribution leverage. The risk is that his brand is tightly coupled to the DTC/performance marketing cycle, but his agency revenue, thought leadership, and expanding media footprint make him a strong candidate for Slow's creator fund.
+  Comparable: Sean Frank (Ridge) — both are operator-first creators who built real businesses before building audiences, and both leverage podcast/media as a growth channel for their core commercial enterprises rather than treating content as the primary business.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Ben Leonard
+  Podcast: Operators | February 04, 2026
+  Episode: Thrasio Bought It, Ben Bought It Back: A Founder Who Lived It Tells All
+  Niche: Strength and conditioning / fitness equipment (Amazon-native DTC brand)
+  Signal Score: 8/10
+  Signals: Disruption(1) | Niche(2) | Momentum(1) | Founder(2) | Flywheel(2)
+  Why: Ben Leonard built Beast Gear (strength & conditioning brand) to $6M revenue, sold to Thrasio, watched it decline to $500K, then bought it back and is actively resurrecting it — demonstrating extreme founder obsession and a rare second-act narrative. He operates in a deeply specific niche (strength & conditioning equipment) with proven e-commerce/Amazon flywheel experience and is launching new products while rebuilding. His story is a compelling indictment of the Amazon aggregator model and positions him as a founder who understands both distribution (content, TikTok Shop, founder-led marketing) and product.
+  Creator Score: 34/60
+  → Disruption:5 Community:5 Conversion:7 Operator:8 Expansion:5 Ceiling:4
+  Thesis: Ben Leonard is a proven operator with real e-commerce chops—he built Beast Gear to $6M revenue, executed a successful exit to Thrasio, and had the conviction to buy it back and attempt a turnaround. However, the brand is currently in distress ($500K revenue post-Thrasio mismanagement), the category (Amazon-native fitness accessories) is crowded with low differentiation, and his creator platform is nascent rather than audience-driven. This is more of a traditional DTC turnaround than a creator-economy investment; the ceiling is likely $10-30M and the risk-reward doesn't fit the Slow Creator Fund thesis well.
+  Comparable: Most resembles a less scaled version of Ridge Wallet-style DTC operators in the Slow portfolio—someone who knows product and Amazon deeply but lacks the distinctive audience flywheel or cultural moment that drives outsized creator fund returns.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Ryan Bartlett and Ben Diamond
+  Podcast: Operators | January 29, 2026
+  Episode: Execution Monsters: True Classic’s Ryan Bartlett & Ben Diamond
+  Niche: DTC men's and women's apparel / basics (fit-focused t-shirts and essentials)
+  Signal Score: 8/10
+  Signals: Disruption(1) | Niche(1) | Momentum(2) | Founder(2) | Flywheel(2)
+  Why: Ryan Bartlett and Ben Diamond built True Classic into a ~$300M apparel brand from scratch, demonstrating extreme founder obsession (poker player + Meta exec partnership, obsessive focus on fit, cutting 80% of catalog, 'seek the truth' philosophy) and a proven flywheel with DTC men's and women's wear, physical products, and strong unit economics. They show momentum with tariffs forcing their most profitable quarter ever, AI-generated creative adoption, and this being their first-ever joint interview — a potential inflection point signal. However, they are traditional DTC operators rather than creator-entrepreneurs with audience-first distribution, which is a significant misfit with Slow's thesis.
+  Creator Score: 50/60
+  → Disruption:7 Community:6 Conversion:10 Operator:10 Expansion:7 Ceiling:10
+  Thesis: Ryan Bartlett and Ben Diamond are execution-first operators who built True Classic to ~$300M in revenue by combining deep performance marketing expertise with obsessive product-market fit iteration. Their willingness to cut 80% of SKUs, adapt to tariff headwinds by engineering their most profitable quarter, and expand into women's wear demonstrates rare operator discipline and category expansion instinct. Slow should pursue this — they are proven builders with a brand that has already scaled past most DTC ceilings and shows franchise-level potential.
+  Comparable: Most comparable to the MrBeast / Feastables archetype in the Slow portfolio — a creator-operator hybrid who leverages audience and performance marketing mastery to build a consumer products empire, though Bartlett and Diamond lean more heavily on the operator side than the creator side.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Katy Mimari
+  Podcast: Operators | January 28, 2026
+  Episode: “Fame Is Not a Business Model”: Celebrity Brands Exposed
+  Niche: Baby and children's lifestyle products / e-commerce
+  Signal Score: 8/10
+  Signals: Disruption(1) | Niche(2) | Momentum(1) | Founder(2) | Flywheel(2)
+  Why: Katy Mimari is CEO of Caden Lane, a baby/children's brand, and is appearing on a major operators podcast discussing celebrity brand deal structures with clear insider expertise — suggesting she's a founder-operator deeply embedded in the baby/kids e-commerce vertical. She demonstrates founder-level thinking by dissecting deal structures, red flags, and the math behind celebrity partnerships, signaling systems-level business acumen. She already runs a product-based business (Caden Lane) with proven commerce conversion, indicating a strong flywheel.
+  Creator Score: 45/60
+  → Disruption:6 Community:7 Conversion:9 Operator:9 Expansion:7 Ceiling:7
+  Thesis: Katy Mimari is a rare creator-operator hybrid: she's CEO of Caden Lane (a real DTC baby brand with meaningful revenue) while co-hosting Operators, a highly respected podcast in the ecommerce/DTC ecosystem. Her credibility comes from actually running a business, not just talking about it, which gives her outsized trust and conversion power with a professional audience of brand builders. Slow should pursue — she sits at the intersection of media influence and proven commerce execution, with clear pathways to expand into advisory, SaaS partnerships, or new brand launches.
+  Comparable: Most resembles the MKBHD/Ridge dynamic discussed in the episode itself — a creator with authentic operator credibility whose audience trusts product recommendations because they know the creator has real skin in the game, similar to how Slow has backed creators who bridge content and commerce.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Marc Lore
+  Podcast: How I Built This | March 30, 2026
+  Episode: diapers.com: Marc Lore. The ecommerce visionary who lost to Amazon but still made billions (2021)
+  Niche: Ecommerce / retail technology
+  Signal Score: 6/10
+  Signals: Disruption(2) | Niche(0) | Momentum(0) | Founder(2) | Flywheel(2)
+  Why: Marc Lore is a serial entrepreneur with multiple massive exits (Diapers.com to Amazon, Jet.com to Walmart for $3.3B) who has repeatedly disrupted ecommerce incumbents. He demonstrates extreme founder obsession with relentless reinvention after setbacks. However, he is NOT a creator-entrepreneur in the Slow Ventures thesis sense — he's a traditional tech founder/CEO, not someone building a business on top of a content audience.
+  Creator Score: 48/60
+  → Disruption:7 Community:4 Conversion:9 Operator:10 Expansion:8 Ceiling:10
+  Thesis: Marc Lore is one of the most proven serial operators in ecommerce history, with two massive exits (Diapers.com to Amazon, Jet.com to Walmart for $3.3B). However, for the Creator Fund specifically, he's not primarily a creator—he's a builder who appeared on someone else's podcast. His community depth as a 'creator' is thin; his value is as an operator and entrepreneur. If Slow is investing in him as a founder of his next venture (e.g., Wonder, his food hall concept, or his city-building project Telosa), the ceiling is enormous, but this isn't a traditional creator-fund fit.
+  Comparable: This most resembles a founder-operator archetype rather than a traditional Slow Creator Fund portfolio creator. He's closest to any founder-turned-media-personality in the portfolio, but his primary leverage is operational excellence and capital markets savvy rather than audience-driven commerce.
+  ⚠ Social check needed (250K+ threshold): False
+
+  GUEST: Matt O'Hayer
+  Podcast: How I Built This | March 23, 2026
+  Episode: Vital Farms: Matt O’Hayer. How a serial entrepreneur re-branded the egg
+  Niche: Pasture-raised eggs / ethical agriculture / conscious capitalism CPG
+  Signal Score: 9/10
+  Signals: Disruption(2) | Niche(2) | Momentum(1) | Founder(2) | Flywheel(2)
+  Why: Matt O'Hayer built Vital Farms into the #1 pasture-raised egg brand in the US with projected revenue approaching $1B, fundamentally disrupting the commodity egg industry by introducing branding, ethics, and premium positioning to one of the most overlooked grocery categories. He exhibits extreme founder obsession — serial entrepreneur across decades, lived in an RV on his farm in his 50s, survived catastrophic business failure post-9/11, and built a 600-farm network from 20 hens. However, Vital Farms is already a publicly traded company (VITL), meaning this is NOT a creator-entrepreneur investment opportunity — he's a traditional CPG founder, not a creator building a business on top of an audience.
+  Creator Score: 53/60
+  → Disruption:9 Community:7 Conversion:10 Operator:10 Expansion:7 Ceiling:10
+  Thesis: Matt O'Hayer is not a traditional creator—he's a proven operator who built Vital Farms into a publicly traded, near-$1B revenue pasture-raised egg empire by fundamentally rebranding a commodity category. His decades of serial entrepreneurship, ability to metabolize failure, and mastery of conscious capitalism make him an exceptionally high-ceiling investment. However, for the Creator Fund specifically, the fit depends on whether Matt is building a media/creator-driven venture or if this is purely a CPG operator story; his appearance on How I Built This is as a guest, not as a content creator with his own audience platform.
+  Comparable: Most comparable to a founder-operator like Cody Ko or Emma Chamberlain in the sense of building a real consumer brand, but more directly resembles the archetype of a CPG founder (like the founders behind Athletic Greens or Liquid Death) who leverages story and brand authenticity rather than a creator-first audience funnel.
+  ⚠ Social check needed (250K+ threshold): False
+
+  GUEST: Aaron Krause
+  Podcast: How I Built This | March 16, 2026
+  Episode: Scrub Daddy: Aaron Krause. How a Failed Experiment Became a Billion-Dollar Sponge
+  Niche: Consumer cleaning products / kitchen sponge category innovation
+  Signal Score: 9/10
+  Signals: Disruption(2) | Niche(2) | Momentum(1) | Founder(2) | Flywheel(2)
+  Why: Aaron Krause reinvented the kitchen sponge category—a deeply unsexy, commoditized space dominated by legacy players like 3M—and built Scrub Daddy into a billion-dollar brand through relentless product innovation, aggressive IP defense, and a full brand block strategy (Scrub Daddy, Scrub Mommy, etc.). He demonstrates intense founder obsession: hanging up on 3M during acquisition talks, doing in-store demos when no retailer believed in the category, and building a patent moat. The flywheel is fully proven with massive retail distribution, QVC success, Shark Tank conversion ($1M on air night), and a multi-product consumer goods empire.
+  Creator Score: 53/60
+  → Disruption:8 Community:7 Conversion:10 Operator:10 Expansion:8 Ceiling:10
+  Thesis: Aaron Krause is not a traditional creator—he's a proven operator who built Scrub Daddy into a billion-dollar consumer brand through relentless product innovation, patent strategy, and category expansion (Scrub Mommy, brand block). His story on How I Built This amplifies his personal brand, but the real asset is his demonstrated ability to repeatedly convert invention into massive retail revenue. Slow should pursue if there's an angle on Aaron launching new ventures or creator-led brand extensions beyond Scrub Daddy, though as a standalone CPG founder he may not fit the typical creator fund profile.
+  Comparable: Most resembles a hybrid of the fund's CPG-founder-turned-personality archetype—similar to how founders like Payal Kadakia or Kara Goldin leverage media presence to amplify already-scaled businesses. His vertically integrated operator mindset and proven billion-dollar outcome set him apart from pure content creators.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Beryl Stafford
+  Podcast: How I Built This | March 09, 2026
+  Episode: Bobo’s: Beryl Stafford.  A Single Mom Turns a Baking Project into a $100M Business
+  Niche: Natural/clean-ingredient CPG snack foods (oat-based bars)
+  Signal Score: 7/10
+  Signals: Disruption(1) | Niche(1) | Momentum(1) | Founder(2) | Flywheel(2)
+  Why: Beryl Stafford built Bobo's from a home baking project into a $100M revenue CPG brand in the natural foods space, demonstrating strong founder obsession and a proven flywheel with national retail (Whole Foods, Costco) distribution. However, she is a traditional CPG founder, not a creator-entrepreneur — the business was built through retail channels and demos, not audience-first distribution. This does not fit Slow's thesis of investing in creators who build audience first and layer products on top.
+  Creator Score: 38/60
+  → Disruption:4 Community:5 Conversion:9 Operator:8 Expansion:5 Ceiling:7
+  Thesis: Beryl Stafford is a proven CPG operator who built Bobo's into a $100M+ brand through grit, community selling, and retail execution—but she is a podcast guest, not a creator with an owned audience. The Slow Creator Fund would be investing in a traditional CPG founder, not a creator-led brand with native distribution through content. Unless Beryl is pivoting toward building a media or creator-driven venture, this doesn't fit the creator fund thesis despite her impressive operational track record.
+  Comparable: Most resembles traditional CPG founders featured on How I Built This rather than a Slow portfolio creator; closest analog might be a food/wellness creator who bootstrapped a physical product, but Beryl lacks the audience-first flywheel that defines creator-fund investments.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Cameron Healy
+  Podcast: How I Built This | March 02, 2026
+  Episode: Kettle Chips: Cameron Healy. The Wild Bet That Made a Brand
+  Niche: Natural/premium snack foods and craft brewing (CPG)
+  Signal Score: 6/10
+  Signals: Disruption(1) | Niche(1) | Momentum(0) | Founder(2) | Flywheel(2)
+  Why: Cameron Healy is a proven CPG founder who built Kettle Chips into the top-selling natural chip in the US and launched Kona Brewing, demonstrating serial entrepreneurship and deep founder obsession. However, this is a legacy founder story — Kettle Chips was sold years ago, and there's no evidence of a current creator-audience flywheel or digital distribution advantage. His profile fits a traditional CPG entrepreneur rather than a creator-entrepreneur building on top of an audience.
+  Creator Score: 48/60
+  → Disruption:7 Community:5 Conversion:9 Operator:10 Expansion:8 Ceiling:9
+  Thesis: Cameron Healy is a proven multi-brand operator who built Kettle Chips into the top-selling natural chip in the US and simultaneously launched Kona Brewing — demonstrating rare serial founder DNA with deep CPG expertise. However, as a legacy operator featured retrospectively on How I Built This rather than an active creator building a modern audience, the investment opportunity through the Creator Fund lens is limited unless he's launching a new venture with a content or community layer. His track record is exceptional but the creator-fund fit depends on what he's building next.
+  Comparable: Most resembles a Guy Raz / How I Built This guest archetype — an elite CPG operator with proven exits but not a native creator. Comparable to legacy founders in the Slow ecosystem who bring operator credibility but need a modern distribution wrapper to fit the creator fund model.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Jim McKelvey
+  Podcast: How I Built This | February 23, 2026
+  Episode: Square: Jim McKelvey. He Lost a $2,000 Sale, Then Built a $10 Billion Company
+  Niche: Fintech / payments infrastructure / entrepreneurship thought leadership
+  Signal Score: 7/10
+  Signals: Disruption(2) | Niche(1) | Momentum(0) | Founder(2) | Flywheel(2)
+  Why: Jim McKelvey co-founded Square (now Block, $10B+ gross profit) by attacking the entrenched, regulation-locked credit card processing industry — a textbook 'broken system' disruption. He demonstrates extreme founder obsession, from the '140 reasons we might fail' investor pitch to building something Amazon couldn't copy. However, he is an established billionaire tech founder, not an emerging creator-entrepreneur building on top of an audience — he falls well outside the Slow Creator Fund's actual thesis of backing creators monetizing distribution.
+  Creator Score: 41/60
+  → Disruption:8 Community:5 Conversion:4 Operator:10 Expansion:7 Ceiling:7
+  Thesis: Jim McKelvey is a world-class operator and founder (Square/Block, glassblowing, Invisibly, Third Degree Glass Works, LaunchCode) with extraordinary entrepreneurial credibility, but his creator profile is limited — he's a podcast guest, not a podcast host or content platform owner. His book 'The Innovation Stack' and speaking presence give him authority, but he lacks a deeply owned, recurring audience or proven direct-to-audience monetization engine. Slow should monitor for a creator-native venture but this is currently more of a founder deal than a creator fund deal.
+  Comparable: Most resembles a Guy Raz/HIBT guest archetype — incredible founder story and brand credibility, but the creator infrastructure (audience ownership, content flywheel, direct commerce) belongs to the show, not to McKelvey himself.
+  ⚠ Social check needed (250K+ threshold): False
+
+  GUEST: John Osher
+  Podcast: How I Built This | February 16, 2026
+  Episode: Spinbrush: John Osher. The Electric Toothbrush That Sold for $475M
+  Niche: Consumer products / oral care / low-cost consumer electronics
+  Signal Score: 7/10
+  Signals: Disruption(2) | Niche(1) | Momentum(0) | Founder(2) | Flywheel(2)
+  Why: John Osher is a proven serial entrepreneur who disrupted the oral care industry by reframing the competition as manual toothbrushes (not expensive electrics), creating a $5 electric toothbrush that became the #1 seller in the U.S. and sold to P&G for $475M. He demonstrates deep founder obsession—scrapping 400,000 defective units pre-launch, engineering a bluff-driven acquisition, and showing disciplined pricing/packaging instincts honed over decades. However, he is a traditional CPG entrepreneur, not a creator-entrepreneur with a content-driven audience, which makes him a poor fit for Slow's thesis of investing in creators who build distribution first.
+  Creator Score: 25/60
+  → Disruption:4 Community:3 Conversion:2 Operator:10 Expansion:3 Ceiling:3
+  Thesis: John Osher is a legendary operator and product entrepreneur (Spinbrush, spinning lollipops, multiple exits), but he is a podcast guest on How I Built This—not a creator building his own audience, platform, or media brand. There is no evidence of a creator-led community, recurring content engine, or audience monetization infrastructure. Slow should not pursue this as a creator investment; Osher's value is as a direct-invest operator, not a creator-fund candidate.
+  Comparable: No strong comparable in the Slow Creator Fund portfolio—Osher is more analogous to a traditional CPG founder than a creator. The closest parallel might be a one-time viral guest who lacks a sustained audience flywheel.
+  ⚠ Social check needed (250K+ threshold): False
+
+  GUEST: David Heinemeier Hansson
+  Podcast: My First Million | March 17, 2026
+  Episode: DHH: $100M+ Advice That'll Piss Off Every Business Guru
+  Niche: Software/SaaS entrepreneurship, bootstrapped business philosophy, web development frameworks, anti-Big Tech advocacy
+  Signal Score: 8/10
+  Signals: Disruption(2) | Niche(1) | Momentum(1) | Founder(2) | Flywheel(2)
+  Why: DHH is the co-founder of 37signals (Basecamp, HEY) and creator of Ruby on Rails — a proven founder-operator who has built $100M+ revenue businesses while openly challenging Silicon Valley orthodoxy (VC funding, cloud dependency, Apple's App Store monopoly). He exhibits extreme founder obsession with contrarian conviction, publicly fighting Apple and Google over app store practices. However, he is NOT a creator-entrepreneur in the Slow Ventures thesis sense — he's an established tech founder/blogger, not someone building a business on top of an audience flywheel, which significantly reduces fit despite high scores.
+  Creator Score: 51/60
+  → Disruption:9 Community:8 Conversion:9 Operator:10 Expansion:7 Ceiling:8
+  Thesis: DHH is a rare creator-operator hybrid: co-founder of Basecamp/37signals (valued at $100M+), creator of Ruby on Rails (one of the most influential web frameworks ever), and a prolific public intellectual with a deeply loyal developer and entrepreneurial audience. He has repeatedly converted audience attention into product revenue (Basecamp, HEY email, ONCE software line), and his contrarian positioning—anti-cloud, anti-VC, anti-big tech—gives him an almost cult-like following. Slow should pursue this; the risk is that DHH is already well-capitalized and may not need or want outside funding, but any partnership would align Slow with a proven builder who shapes entire industry narratives.
+  Comparable: Most resembles a combination of Sahil Lavingia (Gumroad) and Pieter Levels in Slow's orbit—creator-founders who build opinionated software businesses fueled by personal brand and community, though DHH operates at significantly larger scale and cultural influence.
+  ⚠ Social check needed (250K+ threshold): False
+
+  GUEST: David Placek
+  Podcast: My First Million | March 13, 2026
+  Episode: This guy names billion dollar brands for a living, here’s his exact 3-step formula.
+  Niche: Brand naming and corporate identity — specifically the craft and science of naming billion-dollar products and companies
+  Signal Score: 6/10
+  Signals: Disruption(1) | Niche(2) | Momentum(1) | Founder(1) | Flywheel(1)
+  Why: David Placek is the branding expert behind billion-dollar names like BlackBerry, Sonos, Swiffer, and Vercel — deeply embedded in the hyper-niche of corporate naming/brand identity. His appearance on My First Million (a top business podcast) signals momentum and growing public profile, though his business model appears to be a traditional naming consultancy rather than a creator-led holding company. He has a systematic, formulaic approach to naming (3-step process, power letters) that suggests founder-level obsession, but it's unclear if he has a scalable product or audience-driven flywheel beyond his consulting practice.
+  Creator Score: 29/60
+  → Disruption:5 Community:4 Conversion:3 Operator:7 Expansion:5 Ceiling:5
+  Thesis: David Placek is a highly credible brand naming expert (BlackBerry, Swiffer, Sonos) appearing as a guest on My First Million, but he is not the creator/host of the show and does not appear to have a significant owned audience, content platform, or direct-to-consumer product line of his own. His expertise is real and monetized through his agency Lexicon Branding, but the investable creator asset here is thin — he's a service provider being amplified by someone else's platform rather than building his own media-driven flywheel. Slow should pass unless Placek demonstrates intent to build a creator-led brand beyond consulting.
+  Comparable: Most resembles a niche expert guest rather than a Slow portfolio creator — somewhat analogous to a pre-platform version of a domain expert like Nick Huber before he built his audience, but without the audience-building trajectory currently visible.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Zach Yadegari
+  Podcast: My First Million | March 05, 2026
+  Episode: I built a $50M AI app in high school  (and just sold it for...)
+  Niche: AI-powered nutrition/calorie tracking and health-tech consumer apps
+  Signal Score: 9/10
+  Signals: Disruption(1) | Niche(2) | Momentum(2) | Founder(2) | Flywheel(2)
+  Why: 19-year-old founder built Cal AI, a calorie tracking app doing $50M/yr in revenue, and just sold it to MyFitnessPal — demonstrating extraordinary product-market fit and execution at a remarkably young age. He shows intense founder obsession (built this in high school, thinks in terms of idea filtering and systems), and has a proven flywheel converting users into paying customers at massive scale. He's now flush with capital, thinking about where to deploy it next, and is at a clear inflection point with major podcast appearances and a post-exit founder narrative.
+  Creator Score: 48/60
+  → Disruption:8 Community:6 Conversion:10 Operator:9 Expansion:7 Ceiling:8
+  Thesis: Zach Yadegari is a 19-year-old who built Cal AI to $50M/yr in revenue and sold it to MyFitnessPal, demonstrating elite operator instincts and product-market fit intuition far beyond his age. His combination of audacity, proven ability to build and exit consumer AI apps, and growing personal brand (amplified by appearances on top podcasts like MFM) makes him an exceptional candidate. Slow should pursue aggressively—he's at the earliest innings of a multi-decade career building consumer products, and backing him now captures optionality on whatever he builds next.
+  Comparable: Most resembles a younger, consumer-AI-native version of the archetype Slow backs in technical founders who also build audience—similar to early-stage creator-operators who leverage personal brand to de-risk distribution for future ventures. Closest comp would be someone like Jack Smith or other young repeat founders in the portfolio who combine building in public with genuine product revenue.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Pat Walls
+  Podcast: My First Million | February 24, 2026
+  Episode: Dumb iPhone Apps Are Making People Rich Again (Here’s how)
+  Niche: Bootstrapped business case studies / entrepreneur education and tooling
+  Signal Score: 8/10
+  Signals: Disruption(1) | Niche(2) | Momentum(2) | Founder(2) | Flywheel(1)
+  Why: Pat Walls is the founder of Starter Story, a deeply niche platform cataloging how businesses are started, and is currently in the process of selling the company — a clear inflection/momentum signal. He demonstrates strong founder obsession with systems thinking around business ideas (discussing app opportunities like Puffcount, 5-0 Scanner, Cal.ai) and has built a real database/media business with revenue. His appearance on MFM at the point of an exit suggests he's at a transition moment where new capital could fund his next venture.
+  Creator Score: 44/60
+  → Disruption:7 Community:7 Conversion:8 Operator:9 Expansion:7 Ceiling:6
+  Thesis: Pat Walls is a rare creator-operator hybrid who built Starter Story into a profitable database business, sold it, and continues to build in public with deep credibility among indie founders and bootstrappers. His ability to spot micro-SaaS and app trends, combined with proven monetization (subscription database, content monetization, exit) and a strong personal brand amplified by My First Million appearances, makes him a compelling fund candidate. The main risk is that his brand is tightly coupled to the scrappy bootstrapper niche, which may cap the franchise ceiling below venture-scale unless he expands into tools, funds, or marketplaces for the SMB/creator-founder audience.
+  Comparable: Most resembles Greg Isenberg — both operate at the intersection of content creation and idea/business validation, building audiences around entrepreneurial opportunity-spotting while running their own ventures, though Pat skews more bootstrapper and less venture-backed in his positioning.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Scott Galloway
+  Podcast: My First Million | February 16, 2026
+  Episode: Scott Galloway: Why I'm selling my American stocks
+  Niche: Business strategy, economics, tech commentary, personal finance, and cultural criticism
+  Signal Score: 6/10
+  Signals: Disruption(1) | Niche(1) | Momentum(1) | Founder(1) | Flywheel(2)
+  Why: Scott Galloway is a well-established creator-entrepreneur with proven monetization across newsletters (No Mercy / No Malice), podcasts (Pivot, Prof G), online education (Section4), books, and now a new initiative 'Resist and Unsubscribe.' He has strong flywheel conversion with multiple revenue streams layered on top of his audience. However, he is already a mature, well-capitalized creator — likely past the early inflection point where Slow's $1-3M checks would be most impactful, and his niche (business/economics commentary) is broad rather than hyper-specific.
+  Creator Score: 48/60
+  → Disruption:6 Community:8 Conversion:8 Operator:9 Expansion:8 Ceiling:9
+  Thesis: Scott Galloway is a rare creator-operator hybrid: NYU professor turned media mogul with Prof G Media (podcast network), Section (online education platform), and multiple bestselling books. He has proven conversion across education, media, and consumer products, with a fiercely loyal audience of ambitious professionals. The risk is that his brand is deeply personal and politically outspoken, but the upside is a vertically integrated media-education-commerce empire that already generates significant revenue and has clear runway to $100M+.
+  Comparable: Tim Ferriss — both are thought-leader brands built on contrarian frameworks around business/lifestyle optimization, with diversified revenue across media, books, investing, and education, though Galloway skews more institutional/academic and has built more durable business entities around his brand.
+  ⚠ Social check needed (250K+ threshold): False
+
+  GUEST: Adam Neumann
+  Podcast: Tetragrammaton with Rick Rubin | March 18, 2026
+  Episode: Adam Neumann
+  Niche: Residential real estate / branded apartment communities
+  Signal Score: 9/10
+  Signals: Disruption(2) | Niche(1) | Momentum(2) | Founder(2) | Flywheel(2)
+  Why: Adam Neumann is a proven company builder with a track record of scaling to massive valuations, now attacking residential real estate with Flow — a branded, tech-enabled apartment model that challenges traditional landlord-tenant dynamics. He has strong founder obsession (serial entrepreneur with delusional-level conviction) and a real flywheel with physical real estate assets, technology layer, and community-driven branding. However, he is NOT a creator-entrepreneur in the Slow Ventures thesis sense — he's a traditional venture-backed founder appearing on a podcast, not someone who built an audience first and layered products on top.
+  Creator Score: 38/60
+  → Disruption:6 Community:5 Conversion:3 Operator:9 Expansion:7 Ceiling:8
+  Thesis: Adam Neumann is being evaluated here as a guest on Tetragrammaton, not as the creator himself — Rick Rubin is the creator. Neumann is a polarizing but undeniably ambitious operator with a proven ability to raise massive capital and build category-defining brands. However, as a creator he has no established audience, no content flywheel, and no proven ability to convert community into revenue through media — his strengths are in real estate and corporate operations, not creator economy dynamics. Slow should monitor if he ever builds a media layer around Flow, but this is not a creator fund opportunity today.
+  Comparable: This most resembles a pre-media founder like a Travis Kalanick type — massive operator credibility and name recognition but no demonstrated creator-audience relationship. No strong Slow portfolio analog exists because Slow typically backs creators with existing, engaged audiences rather than famous founders who might theoretically build one.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Kelly Wearstler
+  Podcast: Tetragrammaton with Rick Rubin | March 11, 2026
+  Episode: Kelly Wearstler
+  Niche: Luxury interior design, hospitality design, and high-end lifestyle/home product
+  Signal Score: 8/10
+  Signals: Disruption(1) | Niche(2) | Momentum(1) | Founder(2) | Flywheel(2)
+  Why: Kelly Wearstler is a deeply established luxury interior/hospitality design founder with a strong personal brand, running a multidisciplinary design firm that spans residential, hotel, retail, and commercial projects worldwide. She has built a genuine holding-company-style business layering product lines (furniture, lighting, textiles, retail) on top of her creative reputation and audience. Appearance on Tetragrammaton suggests continued cultural relevance and potential inflection into broader consumer product expansion.
+  Creator Score: 48/60
+  → Disruption:7 Community:7 Conversion:9 Operator:9 Expansion:8 Ceiling:8
+  Thesis: Kelly Wearstler is a rare creator who has already built a vertically integrated design empire spanning hospitality, residential, retail, product lines (furniture, lighting, textiles, accessories), and brand collaborations—she operates like a founder, not just a content creator. Her taste-making authority is deeply established with a high-net-worth audience that converts at premium price points, and the Tetragrammaton appearance signals growing mainstream cultural relevance beyond the design world. Slow should pursue her as a brand-platform play with clear expansion into DTC home/lifestyle products, licensing, and experiential retail.
+  Comparable: Most resembles a design-world analog to someone like Emma Chamberlain—a taste-driven personal brand that has successfully expanded from core creative work into product, hospitality, and lifestyle, though Wearstler operates at a significantly higher price point and with decades of proven commercial execution.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Dr. Mary Talley Bowden
+  Podcast: Tetragrammaton with Rick Rubin | January 28, 2026
+  Episode: Dr. Mary Talley Bowden
+  Niche: Direct-care ENT medicine / healthcare transparency / medical freedom advocacy
+  Signal Score: 8/10
+  Signals: Disruption(2) | Niche(2) | Momentum(2) | Founder(1) | Flywheel(1)
+  Why: Dr. Bowden is actively disrupting healthcare delivery with BreatheMD, a direct-care ENT clinic built on transparent pricing that bypasses the traditional insurance-hospital complex — a classic 'the old model is broken' narrative. She has strong momentum with a memoir dropping May 2026 and a first appearance on a major podcast (Tetragrammaton), signaling an inflection point. Her combination of Stanford credentials, a niche medical practice, national notoriety from COVID-era institutional clashes, and a direct-to-consumer healthcare model makes her a compelling creator-entrepreneur hybrid, though the flywheel beyond the clinic and book is still emerging.
+  Creator Score: 34/60
+  → Disruption:7 Community:7 Conversion:5 Operator:6 Expansion:5 Ceiling:4
+  Thesis: Dr. Bowden has built a passionate niche following around medical freedom and direct-care healthcare, with a real clinic (BreatheMD) and a forthcoming book demonstrating some operator instincts. However, her brand is heavily tied to a polarizing COVID-era narrative that may limit mainstream scalability and category expansion. The franchise ceiling is constrained by the political nature of her audience and the narrow clinical focus—this looks more like a lifestyle practice with media presence than a venture-scale creator business.
+  Comparable: Most resembles early-stage health/wellness contrarian creators in the Slow portfolio, similar in spirit to Dr. Mark Hyman-type physician-influencers but with a significantly more polarized and narrower audience base, limiting upside.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Barry Diller
+  Podcast: Tetragrammaton with Rick Rubin | January 21, 2026
+  Episode: Barry Diller
+  Niche: Media, entertainment, and digital commerce (institutional executive, not creator-native)
+  Signal Score: 6/10
+  Signals: Disruption(1) | Niche(0) | Momentum(1) | Founder(2) | Flywheel(2)
+  Why: Barry Diller is a legendary media executive and entrepreneur who built Fox Broadcasting, IAC, and Expedia Group — proven holding company builder with massive flywheel across media, digital commerce, and travel. However, he is a traditional institutional figure, not a creator-entrepreneur building on top of an audience, making him a poor fit for the Creator Fund thesis despite his impressive track record. His memoir 'Who Knew' signals a reflective career stage rather than an inflection point for a new creator-driven venture.
+  Creator Score: 27/60
+  → Disruption:5 Community:6 Conversion:3 Operator:4 Expansion:5 Ceiling:4
+  Thesis: Barry Diller is a legendary media operator but this evaluation is about him as a guest on Rick Rubin's podcast, not as an investable creator building a new audience-driven business. Diller's career is retrospective rather than forward-looking in the creator economy context—he is not building a direct-to-audience brand, launching consumer products, or cultivating a community that Slow could back. The investment opportunity here is in Rick Rubin/Tetragrammaton as a platform, not in Diller as a standalone creator fund candidate.
+  Comparable: This most resembles legacy media figures who appear on Slow-adjacent podcasts but lack a native creator flywheel—similar to high-profile interview guests on The Tim Ferriss Show who are accomplished operators but not investable creator-economy principals.
+  ⚠ Social check needed (250K+ threshold): False
+
+  GUEST: Joseph Nguyen
+  Podcast: Tetragrammaton with Rick Rubin | January 14, 2026
+  Episode: Joseph Nguyen
+  Niche: Personal development / mindset / overthinking — intersection of philosophy, spirituality, and psychology
+  Signal Score: 6/10
+  Signals: Disruption(1) | Niche(1) | Momentum(2) | Founder(1) | Flywheel(1)
+  Why: Joseph Nguyen is a #1 international bestselling author with 'Don't Believe Everything You Think' translated into 40+ languages, signaling massive global momentum and audience reach. He has expanded into multiple titles including workbooks, showing early flywheel behavior beyond a single book. However, his niche (mindset/overthinking/personal development) is broad and crowded, and there's limited evidence of founder-level business building beyond publishing — this is more author-creator than creator-entrepreneur at this stage.
+  Creator Score: 30/60
+  → Disruption:4 Community:6 Conversion:7 Operator:4 Expansion:5 Ceiling:4
+  Thesis: Joseph Nguyen has proven commercial traction with a #1 international bestseller translated into 40+ languages, which is meaningful conversion proof. However, his content sits squarely in the crowded self-help/mindfulness space with no clear differentiator or disruption angle—'don't overthink' is a well-trodden message. He appears to be a traditional author rather than a vertically integrated operator, and the franchise ceiling is limited to book sales, courses, and speaking without obvious paths to a scaled business or brand empire. Pass unless he demonstrates stronger operator instincts or a unique product vision beyond books and workbooks.
+  Comparable: Most resembles Jay Shetty-adjacent creators in the Slow lens—high-reach mindfulness/self-help content with book-driven revenue but limited defensibility and unclear path to a venture-scale business beyond personal brand licensing.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Will Guidara
+  Podcast: Modern Wisdom | March 26, 2026
+  Episode: #1076 - Will Guidara - The Hotdog Effect: Secrets of the World’s #1 Restaurants
+  Niche: Hospitality philosophy, restaurant operations, and experience-driven business strategy
+  Signal Score: 7/10
+  Signals: Disruption(1) | Niche(2) | Momentum(1) | Founder(2) | Flywheel(1)
+  Why: Will Guidara is the restaurateur behind Eleven Madison Park (world's #1 restaurant) and author of 'Unreasonable Hospitality,' positioning himself as the definitive thought leader on hospitality as a business philosophy. He demonstrates deep founder obsession — framing hospitality as an operating system applicable across industries, not just restaurants. His hyper-niche in hospitality expertise and his growing media presence (book, speaking, consulting) suggest he's building a platform business, though his monetized flywheel beyond the book and speaking circuit needs verification.
+  Creator Score: 43/60
+  → Disruption:7 Community:7 Conversion:7 Operator:9 Expansion:7 Ceiling:6
+  Thesis: Will Guidara is a proven operator who took Eleven Madison Park to #1 in the world and has successfully translated that expertise into a bestselling book ('Unreasonable Hospitality'), a speaking/consulting business, and a media brand. His framework around hospitality as a business philosophy has crossover appeal into corporate training, SaaS, and consumer products. The risk is that his brand is more B2B/thought-leadership oriented than direct-to-consumer, which may cap the franchise ceiling compared to creators with massive owned audiences, but his operator DNA and existing monetization make him a strong candidate.
+  Comparable: Most resembles a combination of Danny Meyer's brand-building approach and someone like Simon Sinek in the Slow lens — a credentialed operator who built real businesses first and now monetizes expertise through books, speaking, and consulting, with potential to launch hospitality-adjacent products or platforms.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Cal Newport
+  Podcast: Modern Wisdom | March 05, 2026
+  Episode: #1067 - Cal Newport - The collapse of modern attention (and how to get it back)
+  Niche: Productivity, deep work, attention management, and knowledge work optimization
+  Signal Score: 7/10
+  Signals: Disruption(2) | Niche(2) | Momentum(1) | Founder(1) | Flywheel(1)
+  Why: Cal Newport is a leading voice arguing that conventional knowledge work and digital communication are fundamentally broken — a strong industry disruption signal around productivity and attention. He owns a deep, passionate niche (deep work/digital minimalism) with multiple bestselling books, a popular podcast, and a highly engaged audience of knowledge workers willing to spend on productivity tools and frameworks. However, his primary identity is as an academic author rather than a creator-entrepreneur building a scalable product company, which limits founder obsession and flywheel scores — his monetization is largely books and media rather than software, subscriptions, or physical products.
+  Creator Score: 44/60
+  → Disruption:7 Community:8 Conversion:8 Operator:7 Expansion:7 Ceiling:7
+  Thesis: Note: The creator here is Chris Williamson (Modern Wisdom host), not Cal Newport (the guest). Chris has built one of the largest interview podcasts in the self-improvement/intellectual space with deep audience loyalty, a productized energy drink (Neutonic), affiliate infrastructure, and a massive back catalog featuring top-tier guests (Goggins, Peterson, Huberman). His operator instincts are strong—he's monetizing across sponsors, products, and media—but the brand is still heavily personality-dependent and competes in a crowded long-form interview market. Slow should pursue: the audience scale, engagement depth, and proven product-market fit with Neutonic demonstrate real commercial upside beyond pure ad revenue.
+  Comparable: Chris Williamson most resembles a Andrew Huberman-type creator in the Slow lens—a science-adjacent, self-improvement-focused host who has leveraged deep audience trust into product lines and premium sponsorships, though with slightly less academic moat and more breadth in topic coverage.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Vlad Tenev
+  Podcast: The Knowledge Project | March 03, 2026
+  Episode: Inside the Mind of Robinhood Co-Founder Vlad Tenev
+  Niche: Fintech / democratized retail investing and financial services
+  Signal Score: 8/10
+  Signals: Disruption(2) | Niche(1) | Momentum(1) | Founder(2) | Flywheel(2)
+  Why: Vlad Tenev is the co-founder and CEO of Robinhood, a publicly traded fintech company — not a creator-entrepreneur building on top of an audience. While he scores highly on disruption, founder obsession, and flywheel metrics, he is fundamentally outside Slow's thesis: he's a traditional tech CEO running a $10B+ public company, not a creator monetizing audience trust with a holding company model. This is a false positive for the Creator Fund despite the high raw score.
+  Creator Score: 56/60
+  → Disruption:9 Community:8 Conversion:10 Operator:10 Expansion:9 Ceiling:10
+  Thesis: Vlad Tenev is not a traditional creator—he is a founder-operator running a publicly traded $30B+ fintech company who also generates significant media and narrative gravity. Robinhood has already proven massive conversion (tens of millions of funded accounts), category expansion from trading into banking/crypto/AI, and operator excellence through a dramatic turnaround. However, the Slow Creator Fund lens may not perfectly apply here since he is not monetizing a personal audience or creator brand—he is a CEO whose media presence serves an existing public company, making a creator fund investment structure a mismatch.
+  Comparable: No direct comparable in a typical Slow creator portfolio—closest analogy would be a founder like Palmer Luckey or Tobi Lütke who are operators first and cultural figures second, but Vlad's creator surface area is far more limited since his brand is fully subsumed by Robinhood rather than existing independently.
+  ⚠ Social check needed (250K+ threshold): False
+
+  GUEST: Morgan Housel
+  Podcast: The Knowledge Project | January 20, 2026
+  Episode: Morgan Housel: Wealth is What You Have Minus What You Want
+  Niche: Behavioral finance / personal finance psychology
+  Signal Score: 6/10
+  Signals: Disruption(1) | Niche(1) | Momentum(1) | Founder(1) | Flywheel(2)
+  Why: Morgan Housel is a bestselling author of The Psychology of Money and partner at Collaborative Fund, with a proven flywheel of book sales, speaking, and fund partnership revenue built on his personal brand. He operates in the personal finance/behavioral finance niche with a massive audience, but his approach is more traditional thought leadership than creator-entrepreneur building a holding company. His content philosophy is contrarian (boring beats complex, staying rich differs from getting rich) but he's not disrupting an industry so much as reframing conventional wisdom within it.
+  Creator Score: 40/60
+  → Disruption:6 Community:8 Conversion:8 Operator:6 Expansion:6 Ceiling:6
+  Thesis: Morgan Housel has built an exceptionally loyal audience through bestselling books (The Psychology of Money sold 4M+ copies) and a distinctive voice that reframes personal finance through behavioral psychology and history. However, he is primarily an author/partner at Collaborative Fund rather than a builder — his monetization is concentrated in book sales and speaking fees with limited direct-to-consumer infrastructure or product diversification. Slow should monitor but not aggressively pursue unless Morgan signals intent to build a media or product company beyond books, as the current setup looks more like a high-earning personal brand than a venture-scale franchise.
+  Comparable: Tim Urban (Wait But Why) — both are beloved writer-thinkers who distill complex ideas for massive audiences and have proven book-sale conversion, but whose businesses are tightly coupled to personal output rather than scalable systems.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: James Clear
+  Podcast: The Knowledge Project | January 01, 2026
+  Episode: How to Build Good Habits & Break Bad Ones | James Clear
+  Niche: Habits, behavior change, and personal productivity
+  Signal Score: 7/10
+  Signals: Disruption(1) | Niche(1) | Momentum(1) | Founder(2) | Flywheel(2)
+  Why: James Clear built one of the most successful creator-to-product flywheels in modern publishing — Atomic Habits has sold 15M+ copies and he has layered a massive email list, courses, and speaking business on top of a deeply loyal audience. He demonstrates strong founder-level thinking around positioning, investment philosophy, and filtering opportunities, suggesting a holding-company mindset beyond a single book. However, his niche (habits/self-improvement) is broad rather than hyper-specific, and his model is more proven media empire than early-stage disruptor, which may place him outside Slow's typical entry point.
+  Creator Score: 50/60
+  → Disruption:7 Community:9 Conversion:10 Operator:8 Expansion:7 Ceiling:9
+  Thesis: James Clear has already built one of the most successful creator-to-author pipelines in history with Atomic Habits (15M+ copies sold), a massive newsletter (2M+ subscribers), and a brand synonymous with habit formation. His ability to convert audience attention into durable revenue across books, speaking, and digital products is elite. The question is whether he will build new product lines or remain primarily an author/speaker — but even his current trajectory suggests a $100M+ franchise ceiling, making him a strong candidate if capital can accelerate category expansion into courses, software, or a broader personal development platform.
+  Comparable: Tim Ferriss — both built massive personal brands around self-improvement frameworks, monetized through bestselling books and premium audiences, and have expanded into investing and adjacent businesses while maintaining deep audience trust.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Jordan Jonas
+  Podcast: Tim Ferriss Show | February 11, 2026
+  Episode: #853: Jordan Jonas, Champion of Alone — The Art of Survival, Lessons from Nomadic Tribes, Hardship as the Path to Peace, How to Handle Rogue Wolverines, and Why Not to Photograph Attacking Bears
+  Niche: Wilderness survival, bushcraft, and traditional outdoor skills/tools
+  Signal Score: 6/10
+  Signals: Disruption(1) | Niche(2) | Momentum(1) | Founder(1) | Flywheel(1)
+  Why: Jordan Jonas is deeply embedded in the wilderness survival/bushcraft niche with strong credibility (Alone Season 6 winner, years living with Siberian nomads). He has a physical product line (axes at JordanJonas.com/Axe) and a Tim Ferriss appearance signals an inflection point for broader audience reach. His unconventional expertise — single-bevel axes, traditional Evenki techniques — positions him as a contrarian voice against mainstream outdoor gear and survival approaches, though his founder intensity and business flywheel need further verification.
+  Creator Score: 34/60
+  → Disruption:6 Community:7 Conversion:5 Operator:5 Expansion:6 Ceiling:5
+  Thesis: Jordan Jonas has a compelling personal brand built on authentic wilderness expertise and a remarkable life story, with deep credibility from winning Alone Season 6. He's launched a product line (axes via JordanJonas.com/Axe) showing early operator instincts, but conversion proof is still thin and the outdoor/survival niche has a modest TAM ceiling. Unless he builds a broader outdoor lifestyle or education platform beyond single-product DTC, this looks more like a solid lifestyle business than a venture-scale opportunity.
+  Comparable: Most resembles a less commercially developed version of Weston Brands or similar outdoor personality-driven product companies — within Slow's portfolio, closest to creators who leverage niche expertise into physical products but face category ceiling constraints.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Dr. Tommy Wood
+  Podcast: Tim Ferriss Show | January 28, 2026
+  Episode: #851: Dr. Tommy Wood — How to Future-Proof Your Brain from Dementia
+  Niche: Brain health, dementia prevention, and cognitive performance optimization
+  Signal Score: 7/10
+  Signals: Disruption(1) | Niche(2) | Momentum(2) | Founder(1) | Flywheel(1)
+  Why: Dr. Tommy Wood is a neuroscience researcher at UW with a deeply niche focus on brain health and dementia prevention, appearing on Tim Ferriss (a major inflection signal) to promote his forthcoming book 'The Stimulated Mind.' He challenges conventional dementia narratives with a '45-70% prevention sweet spot' framework and has a YouTube presence (@DrRagnar), suggesting audience-building intent. The combination of academic credibility, a specific health vertical with high consumer spend propensity, and a book launch creates a compelling foundation — though he appears more academic than entrepreneur at this stage.
+  Creator Score: 32/60
+  → Disruption:6 Community:5 Conversion:4 Operator:5 Expansion:7 Ceiling:5
+  Thesis: Dr. Tommy Wood is a credentialed neuroscientist with a compelling niche (brain health/dementia prevention) and a forthcoming book, but he's appearing as a guest on Tim Ferriss's platform rather than owning his own distribution. Community depth is borrowed, conversion proof is limited to a pre-launch book with no evidence of direct-to-audience product sales, and operator signals suggest an academic who creates content rather than a founder building a business. Worth monitoring post-book launch for traction, but too early and too academic-dependent to invest now.
+  Comparable: Most resembles Andrew Huberman at a much earlier stage — credentialed neuroscience professor translating research for mainstream audiences — but without the owned audience, podcast infrastructure, or supplement/product revenue that would justify investment at this point.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Dr. Michael Levin
+  Podcast: Tim Ferriss Show | January 21, 2026
+  Episode: #849: Dr. Michael Levin — Reprogramming Bioelectricity, Updating "Software" for Anti-Aging, Treating Cancer Without Drugs, Cognition of Cells, and Much More
+  Niche: Bioelectricity, regenerative biology, and cellular cognition — at the intersection of aging, cancer, and organ regeneration
+  Signal Score: 7/10
+  Signals: Disruption(2) | Niche(2) | Momentum(1) | Founder(2) | Flywheel(0)
+  Why: Dr. Levin is fundamentally challenging how biology, aging, and cancer are understood — framing the genome as 'factory settings, not destiny' and proposing bioelectricity as a reprogrammable software layer, which positions incumbent pharma and surgical approaches as obsolete. He runs a major discovery center at Tufts and speaks with deep founder-like conviction about a 'Manhattan Project for aging' and giving cells new goals. However, he is an academic researcher, not a creator-entrepreneur — there is no evidence of audience monetization, consumer products, or a creator-led business flywheel.
+  Creator Score: 38/60
+  → Disruption:9 Community:6 Conversion:2 Operator:5 Expansion:8 Ceiling:8
+  Thesis: Dr. Michael Levin is a world-class scientist working at the frontier of bioelectricity, regenerative medicine, and cellular cognition — fields with massive commercial upside in longevity, cancer, and birth defect repair. However, he is fundamentally a research academic, not a creator-operator; he has no demonstrated consumer product, no monetized audience, and his community engagement is through academic channels and guest appearances rather than owned platforms. Slow should monitor for a commercialization inflection (e.g., a biotech spinout or a direct-to-audience educational product) but should not pursue today given the absence of conversion proof and operator DNA.
+  Comparable: Most resembles Andrew Huberman in the 'scientist-as-public-intellectual' archetype, but at a much earlier stage of audience monetization — Huberman built owned distribution and product lines, whereas Levin has not yet made that leap.
+  ⚠ Social check needed (250K+ threshold): True
+
+  GUEST: Dominic D'Agostino
+  Podcast: Tim Ferriss Show | January 07, 2026
+  Episode: #845: How to Use Ketosis for Enhanced Mood, Cognition, and Long-Term Brain Protection — A Practical and Tactical Guide with Dr. Dominic D'Agostino (Plus: Deconstructing Tim’s Latest Keto Experiment)
+  Niche: Ketosis, metabolic health, metabolic psychiatry, and nutritional neuroscience
+  Signal Score: 7/10
+  Signals: Disruption(2) | Niche(2) | Momentum(1) | Founder(1) | Flywheel(1)
+  Why: Dr. D'Agostino is a leading academic voice in ketosis and metabolic health, operating at the intersection of metabolic psychiatry, cancer metabolism, and brain protection — areas where he challenges conventional medical orthodoxy (e.g., ketosis reversing pseudo-dementia, starving glycolytic pathogens/tumors). He is deeply embedded in a hyper-niche community of keto/metabolic health enthusiasts with high spend propensity on supplements, devices, and food products. However, his primary identity is academic researcher rather than creator-entrepreneur, and evidence of a monetized product flywheel or holding-company ambition is limited from this episode alone.
+  Creator Score: 37/60
+  → Disruption:7 Community:7 Conversion:5 Operator:5 Expansion:7 Ceiling:6
+  Thesis: Dr. D'Agostino is a credible academic voice at the intersection of ketosis, metabolic health, and brain performance — a category with massive consumer tailwinds. However, he remains primarily a researcher and educator rather than an operator; his monetization footprint (no major DTC brand, no scaled product line) is thin relative to the audience he can access via top-tier platforms like Tim Ferriss. Slow should monitor for an operator-partner pairing or a product launch (e.g., exogenous ketone line, metabolic health protocol/subscription) before deploying capital.
+  Comparable: Most comparable to Dr. Andrew Huberman pre-Momentous partnership — deep scientific credibility and large borrowed audience, but lacking owned distribution and product revenue. If D'Agostino launched or co-founded a vertically integrated supplement or metabolic health brand, the calculus would shift significantly.
+  ⚠ Social check needed (250K+ threshold): True
+
+🟡 MEDIUM PRIORITY CREATORS
+--------------------------------------------------
+
+  GUEST: Yoni Smolyar
+  Podcast: Creator Science | January 06, 2026
+  Niche: Creator/entrepreneurial journey documentation + digital wellness (phone overuse app)
+  Signal Score: 4/10
+  Why: Yoni built 190K Instagram followers through a 508-day daily posting challenge and launched an iPhone app called Brainrot (tackling phone overuse) with a $10K launch credited to his audience. However, the scale is very early-stage ($10K launch revenue), the niche is broad/undifferentiated (entrepreneurial journey documentation), and he expresses ambivalence about the content grind — saying he wouldn't do it again and valuing his smaller 'ex-audience' of 20K over the larger following. Some founder DNA present but far from the $100-200M revenue potential Slow targets.
+
+  GUEST: Romeo
+  Podcast: Creator Economy Live | March 12, 2026
+  Niche: Music/jingles and viral audio content creation
+  Signal Score: 4/10
+  Why: Romeo went viral with a Dr Pepper jingle that converted into a national commercial deal, signaling strong momentum and a clear inflection point. However, based on available information, there's limited evidence of founder-level thinking, a broader product flywheel, or industry disruption — this reads more like a viral moment than a scalable creator-business. Social check needed to assess whether Romeo is building beyond brand deals into owned products or a holding company structure.
+
+  GUEST: Christina Le
+  Podcast: Creator Economy Live | March 05, 2026
+  Niche: B2B marketing / LinkedIn personal branding for social media professionals
+  Signal Score: 4/10
+  Why: Christina Le is a rising LinkedIn creator in the B2B/social media marketing space who also serves as Head of Marketing at Slate, a fast-growing creative tool for social media managers. She sits at the intersection of personal brand building and B2B SaaS marketing, but she appears to be an employee-creator rather than a creator-entrepreneur building her own holding company. No evidence of her own product line or independent monetized business beyond her corporate role.
+
+  GUEST: Ashwinn Krishnaswamy
+  Podcast: Creator Economy Live | October 23, 2025
+  Niche: Branding strategy and design for businesses — content focused on branding, monetization, and business-building advice
+  Signal Score: 5/10
+  Why: Ashwinn is a partner at Forge Design (a branding agency) who has built a content creator persona around branding and business strategy on TikTok and Instagram. He sits at the intersection of agency operator and creator, which suggests founder-level thinking, but his primary business appears to be a services firm rather than a scalable product company. There are signals of momentum (appearing on creator economy podcasts, growing social presence) but limited evidence of a flywheel beyond agency revenue and brand partnerships.
+
+  GUEST: Tom Goodwin
+  Podcast: Creator Economy Live | October 09, 2025
+  Niche: Marketing strategy, advertising industry disruption, creator economy commentary
+  Signal Score: 5/10
+  Why: Tom Goodwin is a marketing/advertising thought leader and author of Digital Darwinism who critiques how marketers lost sight of creativity — positioning him as someone who sees the industry as broken. He founded All We Have Is Now, suggesting founder-level ambition, but his profile reads more as a commentator/consultant than a creator-entrepreneur building a product-led business on top of an audience. His niche in marketing strategy and creator economy commentary has audience value but unclear product conversion beyond books and advisory.
+
+  GUEST: Derral Eves
+  Podcast: The Upload with Rob Balasabas | February 09, 2026
+  Niche: YouTube growth strategy and creator consulting
+  Signal Score: 4/10
+  Why: Derral Eves is a well-known YouTube growth strategist who has advised top creators and brands, suggesting deep expertise and industry connections. However, based on the episode description, he positions primarily as an advisor/consultant rather than a creator-entrepreneur building a product-driven holding company on top of his own audience. There's no clear evidence of a disruptive product line, novel industry attack, or significant commerce flywheel beyond consulting and content.
+
+  GUEST: Caesar Hernandez
+  Podcast: The Upload with Rob Balasabas | November 20, 2025
+  Niche: Creator operations / funnel building / digital ecosystem design for high-level creators and entrepreneurs
+  Signal Score: 5/10
+  Why: Caesar is an operator/agency owner (Icon Funnels) who builds funnels, memberships, and digital ecosystems for high-level creators — he's not the creator himself, which is a fundamental misfit for Slow's thesis of investing in creator-entrepreneurs with audiences. He shows some founder DNA (shut down a seven-figure gym to reinvent, builds strategic partnerships with creators, thinks in systems), but his role is service provider to creators rather than a creator with distribution building products on top. Mild disruption signal around coaching decline and AI reshaping creator operations, but nothing that breaks an industry open.
+
+  GUEST: Alan Aragon
+  Podcast: Diary of a CEO | March 27, 2026
+  Niche: Evidence-based nutrition and diet science for fitness enthusiasts
+  Signal Score: 5/10
+  Why: Alan Aragon is a deeply respected voice in evidence-based nutrition, occupying a hyper-niche at the intersection of nutrition science and fitness. His appearance on Diary of a CEO (one of the world's largest podcasts) suggests an inflection point in mainstream visibility. However, there's limited evidence of founder-level business building or a strong product flywheel beyond his research and content — he appears more academic/expert than creator-entrepreneur.
+
+  GUEST: Robert Pape
+  Podcast: Diary of a CEO | March 12, 2026
+  Niche: Military strategy, geopolitical security, and war simulation analysis
+  Signal Score: 4/10
+  Why: Robert Pape is a deeply credentialed political scientist and war strategist who has advised every White House since 9/11, giving him genuine authority in a hyper-specific niche (military strategy and security threats). He challenges conventional wisdom around air power, regime change, and escalation dynamics. However, he is an academic and policy advisor, not a creator-entrepreneur — there is no evidence of audience monetization, product development, or a business flywheel beyond book sales and academic credentials.
+
+  GUEST: Wesley Huff
+  Podcast: Diary of a CEO | March 09, 2026
+  Niche: Christian apologetics / historical Bible scholarship
+  Signal Score: 5/10
+  Why: Wesley Huff is deeply embedded in the Christian apologetics niche, a hyper-specific vertical with a passionate and historically high-spend audience (Bible sales surging). His appearance on Diary of a CEO suggests a momentum inflection point and growing mainstream crossover appeal. However, there is no evidence of a product flywheel, holding company structure, or entrepreneurial intensity beyond content creation and his role at Apologetics Canada — he reads more as an academic/ministry figure than a creator-entrepreneur.
+
+  GUEST: Andrew Bustamante, Annie Jacobsen, Benjamin Radd
+  Podcast: Diary of a CEO | March 04, 2026
+  Niche: National security / geopolitics / intelligence education
+  Signal Score: 6/10
+  Why: This is a multi-guest roundtable on geopolitics/national security, not a creator-entrepreneur deep dive. Andrew Bustamante has the strongest creator-business signal with his 'Everyday Spy' brand and memoir, operating in the intelligence/espionage education niche. Annie Jacobsen is primarily an author/journalist with bestselling books but no evident holding-company ambition. The episode's massive topical momentum (emergency Iran conflict coverage on Diary of a CEO) gives all guests visibility boosts, but none clearly fit Slow's thesis of creator-entrepreneurs building $100M+ product businesses on top of audiences.
+
+  GUEST: Craig Foldes
+  Podcast: Operators | March 04, 2026
+  Niche: Enterprise AI adoption and implementation for brands (B2B AI consulting/tooling)
+  Signal Score: 5/10
+  Why: Craig Foldes founded ChatWalrus after serving as Global Head of AI at Crocs, positioning himself at the intersection of enterprise AI adoption and brand operations — a niche with high spend propensity. His framing that '95% of AI pilots fail' and AI adoption is 'for the rebels' shows some disruption language, and launching a company (ChatWalrus) signals founder intent. However, he reads more as a B2B SaaS founder/consultant than a creator-entrepreneur with audience-first distribution — there's no clear evidence of a large owned audience or proven content-to-commerce flywheel.
+
+  GUEST: Oz Pearlman
+  Podcast: My First Million | March 30, 2026
+  Niche: Mentalism, mind reading, and interpersonal influence/persuasion
+  Signal Score: 4/10
+  Why: Oz Pearlman is a deeply niche mentalist/mind-reader with a high-profile performance career (America's Got Talent finalist) and a new book launch ('Read Your Mind'). However, he presents more as a performer and entertainer than a creator-entrepreneur building a scalable business or holding company. There's limited evidence of founder-level obsession around building products, systems, or a flywheel beyond his personal brand and book.
+
+  GUEST: David Whyte
+  Podcast: Tetragrammaton with Rick Rubin | February 13, 2026
+  Niche: Poetry, philosophy, and personal transformation — specifically exploring themes of love, vulnerability, and the examined life
+  Signal Score: 5/10
+  Why: David Whyte is a well-established Irish poet and philosopher with a deeply devoted niche audience in the intersection of poetry, philosophy, and personal transformation. He has built a career around speaking engagements, books, and pilgrimages, showing some flywheel activity, but his work is more aligned with traditional literary/speaking careers than a scalable creator-entrepreneur model. A return appearance on Tetragrammaton suggests continued cultural relevance, but there's limited evidence of the kind of product-layered business or founder mentality Slow targets.
+
+  GUEST: Chris Bailey
+  Podcast: Modern Wisdom | March 28, 2026
+  Niche: Productivity and goal-setting advice (books, speaking, content)
+  Signal Score: 4/10
+  Why: Chris Bailey is a productivity expert and author with a new book on goal-setting and intentions, suggesting a momentum moment. However, he reads more as a traditional author/speaker than a creator-entrepreneur building a scalable holding company — there's limited evidence of product diversification, founder-level obsession with business building, or a genuine flywheel beyond books and speaking. His niche in productivity/goal-setting is broad and crowded rather than hyper-specific.
+
+  GUEST: Nir Eyal
+  Podcast: Modern Wisdom | March 21, 2026
+  Niche: Behavioural design, habit formation, and belief change (self-improvement/psychology)
+  Signal Score: 5/10
+  Why: Nir Eyal is a well-established behavioural design author and investor with a new book ('Beyond Belief') launching, indicating momentum. He has a proven content-to-product flywheel with books, a free belief change guide, a 30-Day Belief Transformation Journal, and his NirAndFar.com platform. However, he reads more as a traditional author/thought-leader than a creator-entrepreneur building a scalable holding company — his monetization is primarily books and courses rather than hardware, software, or e-commerce with $100M+ revenue potential.
+
+  GUEST: Scott Solomon
+  Podcast: Modern Wisdom | February 28, 2026
+  Niche: Space biology / human evolution on Mars
+  Signal Score: 4/10
+  Why: Scott Solomon is an evolutionary biologist and author with a compelling niche at the intersection of space colonization and human evolution — a topic with growing cultural relevance as Mars missions become more concrete. He has a book out and is appearing on major podcasts like Modern Wisdom, suggesting an inflection point. However, there is no evidence of founder mentality, product-market conversion beyond book sales, or a business flywheel — he reads as a traditional academic/author rather than a creator-entrepreneur building a holding company.
+
+  GUEST: Dr Dani Sulikowski
+  Podcast: Modern Wisdom | February 26, 2026
+  Niche: Evolutionary psychology / female intrasexual competition
+  Signal Score: 4/10
+  Why: Dr Sulikowski operates in the hyper-specific niche of evolutionary psychology focused on female intrasexual competition, a topic with strong audience curiosity and viral potential. Appearing on Modern Wisdom (a major podcast) suggests emerging momentum, but there is no evidence of product development, monetized audience, or founder-like business building beyond academic work.
+
+  GUEST: Bernie Marcus
+  Podcast: The Knowledge Project | December 16, 2025
+  Niche: Home improvement retail / entrepreneurship legacy
+  Signal Score: 5/10
+  Why: Bernie Marcus is the legendary co-founder of Home Depot, a $30B+ retail empire that fundamentally disrupted the home improvement industry. He exhibits extreme founder obsession — building a culture of ownership, persisting through rejection, and scaling from nothing. However, he is not a creator-entrepreneur in the Slow Ventures thesis sense; this is a retrospective legacy interview with a retired billionaire (now deceased), not a current creator building on top of an audience.
+
+  GUEST: Jim Collins
+  Podcast: Tim Ferriss Show | March 05, 2026
+  Niche: Business strategy, leadership, and management research/publishing
+  Signal Score: 4/10
+  Why: Jim Collins is a legendary business author with 11M+ copies sold and a new book launch ('What to Make of a Life'), indicating current momentum. However, he is an established author/researcher rather than a creator-entrepreneur building a venture-backable holding company on top of an audience. His flywheel is proven (books, speaking, research) but is a traditional publishing/thought-leadership model, not the kind of scalable product-layering opportunity Slow targets.
+
+  GUEST: Tish Rabe
+  Podcast: Tim Ferriss Show | February 18, 2026
+  Niche: Children's book publishing and educational children's media
+  Signal Score: 5/10
+  Why: Tish Rabe is deeply embedded in children's publishing with 200+ books and 11M+ copies sold, and has launched her own publishing company (Tish Rabe Books), signaling founder ambition beyond pure content creation. Her Tim Ferriss appearance suggests a potential inflection point, but she operates more as a traditional author/publisher than a creator-entrepreneur building on top of a digital audience. No evidence of industry disruption or a strong digital flywheel converting audience into scalable product revenue.
+
+======================================================================
+NEXT STEPS FOR HIGH PRIORITY CREATORS:
+1. Verify social following (250K+ threshold on primary platform)
+2. Check if creator has appeared on any Slow-monitored podcast before
+3. Search for product/business evidence beyond content
+4. Run full Slow Creator Lens evaluation
+======================================================================
