@@ -24,7 +24,7 @@ from datetime import datetime, timezone
 from collections import defaultdict
 
 # ── API KEY ────────────────────────────────────────────────────────────────────
-ANTHROPIC_API_KEY = "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"
+ANTHROPIC_API_KEY = "YOUR_ANTHROPIC_API_KEY_HERE"
 
 # ── PODCAST LIST ───────────────────────────────────────────────────────────────
 # Curated for founder-depth signal, not popularity.
