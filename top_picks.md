@@ -49,17 +49,17 @@ Current revenue from the axe business and other products. Audience size and enga
 
 ---
 
-## #4 — Jocko Willink
-**Podcast:** Diary of a CEO | **Signal Score:** 8/10 | **Creator Score:** 51/60
+## #4 — James Pumphrey & Jesse Wood (Speeed)
+**Podcast:** The Colin and Samir Show | **Signal Score:** 9/10 | **Creator Score:** 46/60
 
 **Why Slow:**
-Jocko Willink has already done what every other creator on this list is working toward. A deeply loyal military-inspired audience — built over a decade through his podcast and books — converted into a multi-vertical holding company: Jocko Fuel (supplements and energy drinks), Origin USA (American-made apparel and gear), and Echelon Front (leadership consulting firm). He thinks and operates exactly like Slow's portfolio founders. The challenge is that he may not need early-stage capital. But the question worth asking is whether there is a specific growth opportunity — scaling Jocko Fuel nationally, a new product vertical, or an adjacent business — where Slow's check and network would matter. The profile is undeniable.
+Pumphrey and Wood built Donut Media into one of YouTube's most beloved car culture channels — then walked away from it entirely to start over. That decision alone is a founder signal. They are not coasting on what they built. They developed a proprietary "9 principles" framework for evaluating whether a YouTube media business actually works, which means they have codified pattern recognition across the most important creator distribution platform in the world. Car culture is a genuine hobby niche with one of the highest audience spend propensities that exists — gear, tools, experiences, vehicles. Their first major podcast appearances signal they are at the earliest stage of Speeed. This is the entry point.
 
 **Investment Thesis:**
-The creator-to-franchise model is already proven. The question is where to deploy capital within an existing empire. Slow should open a conversation to find the specific capital deployment opportunity, not wait for him to come to them.
+Two proven YouTube operators with a systematic, framework-driven approach to building creator media businesses are starting over in a category with deeply passionate, high-spend audiences. The bet is on the playbook, not just the channel.
 
 **Verify First:**
-Whether Jocko Fuel and Origin USA are actively seeking outside capital or growing organically. Current revenue across the holding company. Whether there is a specific new vertical or growth moment where Slow's check size is additive.
+Current state of Speeed — audience size, revenue, product thinking. Whether they are building media only or layering products and experiences on top of the car culture community.
 
 ---
 
