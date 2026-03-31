@@ -166,6 +166,7 @@ The scan takes approximately 20–30 minutes across all 12 podcasts. A report is
 ## What Would Make This Better (v2 Ideas)
 
 - **Tighter podcast list** — the current 12-show list includes general founder podcasts (How I Built This, Tim Ferriss, Knowledge Project) that surface CPG founders and tech CEOs rather than creator-entrepreneurs. The cleanest signal came from the creator-first shows: Colin and Samir, Creator Science, Operators. V2 should narrow to 8-10 shows that are explicitly creator-economy focused, and continuously refine that list as new shows emerge.
+- **Auto-generated slides** — after Top Picks are selected, automatically generate a one-pager per creator using their Creator Score data, investment thesis, and portfolio comparable. Ready to share immediately after the scan.
 - **Automated social verification** — automatically pull follower counts via platform APIs rather than relying on Claude's training data
 - **Historical tracking** — store results in a database and flag when a creator's signal score increases week over week
 - **Slack integration** — push HIGH priority alerts to a Slow team channel in real time
